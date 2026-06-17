@@ -1,0 +1,1501 @@
+household_id,state_region,township,household_size,monthly_income,has_debt,total_debt,monthly_debt_repayment,savings_duration_weeks,market_access,female_headed_household,disability_present,displacement_status
+HH00001,Magway,Magway,6,610149.0,yes,851624,150329,1,Yes,No,No,IDP
+HH00002,Ayeyarwady,Pathein,8,284061.0,Yes,801819,95454,4,No,No,No,Resident
+HH00003,Shan North,Lashio,4,50000.0,No,0,0,2,Unknown,No,No,Resident
+HH00004,Kayin,Hpa-An,4,101947.0,Yes,667989,60245,2,Yes,No,No,Resident
+HH00005,Kayin,Myawaddy,6,675893.0,Yes,593253,81094,1,N,No,No,Returnee
+HH00006,Mon,Mawlamyine,5,347774.0,no,0,0,1,No,No,No,Resident
+HH00007,Magway,Minbu,6,284870.0,No,0,0,8,No,Yes,Yes,Resident
+HH00008,Shan North,Muse,4,715679.0,No,0,0,3,Yes,No,No,Resident
+HH00009,Mandalay,Myingyan,3,647729.0,Yes,1251335,64213,0,Yes,No,No,Resident
+HH00010,Magway,Minbu,6,424401.0,no,0,0,8,Yes,No,No,Resident
+HH00011,Rakhine,Mrauk-U,3,367187.0,Yes,668414,36058,2,Yes,Yes,No,IDP
+HH00012,Tanintharyi,Dawei,3,396222.0,N,0,0,1,Yes,No,No,Resident
+HH00013,Ayeyarwady,Myaungmya,5,460889.0,Yes,900821,136501,1,No,No,No,Resident
+HH00014,Ayeyarwady,Pathein,6,708009.0,Yes,1218574,84151,3,No,No,No,Resident
+HH00015,Ayeyarwady,Pathein,7,496044.0,Y,851024,68090,1,Yes,No,No,Resident
+HH00016,Bago,Taungoo,4,550685.0,Yes,834807,89128,2,No,No,No,Resident
+HH00017,Rakhine,Mrauk-U,2,630469.0,Y,670393,81199,3,N,No,No,Resident
+HH00018,Magway,Pakokku,8,209458.0,Yes,808173,61763,0,No,Yes,No,Resident
+HH00019,Bago,Pyay,3,555875.0,N,0,0,8,Y,No,No,Resident
+HH00020,Kayin,Myawaddy,3,366978.0,N,0,0,1,No,No,No,IDP
+HH00021,Rakhine,Kyaukphyu,4,50000.0,N,0,0,1,Yes,No,No,Resident
+HH00022,Kayah,Hpruso,5,50000.0,Yes,565126,151831,3,Yes,Yes,No,Resident
+HH00023,Mandalay,Mandalay,7,236739.0,N,0,0,2,N,Yes,No,IDP
+HH00024,Mon,Mawlamyine,6,515620 MMK,no,0,0,1,No,No,No,Resident
+HH00025,Ayeyarwady,Hinthada,6,440484.0,Yes,1598691,20803,3,Y,No,No,IDP
+HH00026,Shan North,Lashio,3,453186.0,Yes,209185,31928,8,Unknown,No,No,Returnee
+HH00027,Kayah,Loikaw,4,771170.0,yes,613849,115310,4,Yes,Yes,No,IDP
+HH00028,Bago,Bago,5,191564.0,Yes,856939,82741,4,Yes,No,No,Resident
+HH00029,Rakhine,Sittwe,3,415062.0,Y,835127,43856,1,No,No,Yes,IDP
+HH00030,Kayin,Kawkareik,4,474798.0,N,0,0,1,Yes,No,No,Resident
+HH00031,Kayin,Hpa-An,4,287471.0,Yes,564557,74096,2,No,No,Yes,Resident
+HH00032,Chin,Hakha,3,425099.0,Y,95524,22741,0,Y,No,No,Returnee
+HH00033,Magway,Minbu,5,132009.0,Y,257452,109385,4,No,No,No,Resident
+HH00034,Rakhine,Sittwe,6,673783.0,Yes,735874,102498,1,Yes,Yes,No,IDP
+HH00035,Mon,Ye,2,297309.0,yes,20000,8239,1,No,No,No,Resident
+HH00036,Sagaing,Monywa,5,785652.0,Yes,882125,5000,1,Yes,No,No,Resident
+HH00037,Mon,Mawlamyine,6,414155.0,No,0,0,1,N,No,No,Resident
+HH00038,Bago,Bago,6,605050.0,yes,1078620,5000,1,Yes,Yes,No,IDP
+HH00039,Chin,Matupi,6,410405.0,Yes,945171,35014,2,Y,Yes,No,Resident
+HH00040,Shan South,Pekon,4,414466.0,yes,1017116,219367,2,Yes,No,No,IDP
+HH00041,Mandalay,Kyaukse,7,314875.0,Yes,20000,106292,1,Yes,Yes,Yes,Resident
+HH00042,Ayeyarwady,Pathein,3,441442.0,No,0,0,1,Yes,Yes,No,IDP
+HH00043,Shan North,Lashio,4,477240.0,Yes,20000,94205,4,Yes,Yes,No,Resident
+HH00044,Kachin,Bhamo,3,278833.0,Y,577630,80840,0,Yes,No,No,IDP
+HH00045,Sagaing,Monywa,5,397492.0,N,0,0,2,Y,Yes,Yes,Resident
+HH00046,Tanintharyi,Myeik,4,310182.0,yes,330910,110124,2,Y,Yes,No,Resident
+HH00047,Kayin,Kawkareik,3,,no,0,0,2,Yes,Yes,Yes,IDP
+HH00048,Mon,Ye,6,403848.0,Y,143075,130874,8,No,No,No,Resident
+HH00049,Shan North,Muse,4,698142.0,N,0,0,2,Y,Yes,No,Resident
+HH00050,Ayeyarwady,Pathein,4,384788.0,Y,506762,11879,12,Y,Yes,No,IDP
+HH00051,Ayeyarwady,Pathein,3,466672.0,yes,1208228,71970,8,Yes,No,No,IDP
+HH00052,Mandalay,Myingyan,4,182154.0,Y,1317673,129961,1,Yes,No,No,IDP
+HH00053,Kayah,Demoso,4,339527.0,yes,370649,71175,1,N,Yes,No,IDP
+HH00054,Kayin,Myawaddy,4,457896.0,Yes,692363,143684,1,Yes,No,No,IDP
+HH00055,Kayin,Myawaddy,3,705481.0,No,0,0,1,Yes,Yes,No,Resident
+HH00056,Sagaing,Monywa,6,459957.0,N,0,0,2,No,No,No,Resident
+HH00057,Rakhine,Kyaukphyu,8,,Yes,803131,82933,1,Yes,No,No,IDP
+HH00058,Mandalay,Myingyan,5,535331.0,Yes,580042,72725,1,Y,No,No,Resident
+HH00059,Ayeyarwady,Myaungmya,5,712932.0,no,0,0,1,Yes,No,No,Resident
+HH00060,Shan North,Laukkaing,7,409372.0,No,0,0,3,No,No,No,Resident
+HH00061,Mon,Mawlamyine,9,850240.0,Yes,1106607,75167,3,Unknown,Yes,Yes,Resident
+HH00062,Ayeyarwady,Pathein,5,332629.0,No,0,0,12,Unknown,No,No,IDP
+HH00063,Kayah,Loikaw,7,282037.0,No,0,0,1,N,No,No,Resident
+HH00064,Tanintharyi,Kawthaung,7,202190.0,Y,511751,49597,1,N,No,No,IDP
+HH00065,Kayah,Demoso,6,839584.0,no,0,0,12,Yes,Yes,No,IDP
+HH00066,Kachin,Bhamo,5,567501.0,no,0,0,3,Unknown,No,No,Resident
+HH00067,Mon,Ye,2,359858.0,Y,456182,11906,2,N,No,No,Resident
+HH00068,Kayah,Demoso,1,644824.0,Y,387369,142429,2,No,No,No,Resident
+HH00069,Magway,Minbu,5,543785.0,No,0,0,0,Yes,No,No,Resident
+HH00070,Kayin,Kawkareik,5,773903.0,yes,577690,106699,8,Yes,No,No,Resident
+HH00071,Bago,Bago,4,141390.0,Yes,20000,100574,2,No,No,Yes,Resident
+HH00072,Mandalay,Kyaukse,5,372235.0,Yes,593527,53335,2,No,No,No,IDP
+HH00073,Kayin,Kawkareik,5,336746.0,no,0,0,2,Yes,No,No,Resident
+HH00074,Magway,Minbu,7,64737.0,yes,713336,52688,1,Yes,No,No,Resident
+HH00075,Shan North,Lashio,2,610859.0,Yes,20000,116501,1,No,Yes,No,Resident
+HH00076,Kayin,Hpa-An,3,371329.0,Y,735056,60873,4,Yes,Yes,No,IDP
+HH00077,Kachin,Bhamo,6,553134.0,No,0,0,2,Unknown,No,Yes,Resident
+HH00078,Chin,Matupi,7,844759.0,No,0,0,0,Yes,No,No,Resident
+HH00079,Rakhine,Sittwe,9,356416.0,Yes,311835,8856,1,Yes,Yes,Yes,IDP
+HH00080,Shan North,Muse,7,344192.0,Yes,728362,147605,8,Yes,No,No,Resident
+HH00081,Tanintharyi,Dawei,7,441360.0,Y,721108,12776,1,Y,No,No,Resident
+HH00082,Kayin,Hpa-An,4,597705.0,No,0,0,1,Y,No,No,Resident
+HH00083,Mandalay,Kyaukse,4,317992.0,Y,728791,72600,2,Yes,Yes,No,IDP
+HH00084,Bago,Pyay,4,306427.0,Yes,952415,102303,4,Yes,No,No,IDP
+HH00085,Shan South,Pekon,5,610294.0,no,0,0,3,Yes,No,No,Resident
+HH00086,Shan North,Lashio,8,488155.0,Y,20000,99536,8,Yes,Yes,No,IDP
+HH00087,Magway,Minbu,4,51949.0,yes,298782,11022,0,No,No,No,IDP
+HH00088,Kachin,Myitkyina,5,199429.0,Yes,584034,93494,8,Yes,No,No,IDP
+HH00089,Ayeyarwady,Myaungmya,4,690222.0,Y,75743,106706,8,No,No,No,IDP
+HH00090,Bago,Bago,3,492347.0,yes,917169,77114,2,Yes,No,No,IDP
+HH00091,Kayin,Kawkareik,3,282805.0,No,0,0,2,Yes,Yes,No,Resident
+HH00092,Bago,Pyay,2,389326.0,Yes,346332,30928,1,Yes,Yes,No,Resident
+HH00093,Bago,Pyay,8,422383.0,Yes,1009076,6995,1,Yes,Yes,No,IDP
+HH00094,Kayah,Loikaw,4,552432 MMK,Yes,1022565,67566,1,Yes,Yes,No,Resident
+HH00095,Mon,Ye,7,175513.0,No,0,0,0,Yes,No,No,Resident
+HH00096,Kachin,Myitkyina,6,268629.0,No,0,0,12,Yes,Yes,No,IDP
+HH00097,Chin,Tedim,3,469132.0,Yes,616458,5000,1,Unknown,No,No,IDP
+HH00098,Shan North,Laukkaing,3,402030.0,Y,598649,102611,2,Yes,Yes,No,IDP
+HH00099,Shan South,Hopong,6,522935.0,Yes,182256,97439,1,Yes,Yes,No,IDP
+HH00100,Magway,Minbu,4,198689.0,No,0,0,1,Yes,Yes,No,Resident
+HH00101,Bago,Bago,7,484283.0,Y,681154,46031,1,No,No,No,IDP
+HH00102,Mandalay,Myingyan,3,616485.0,Yes,949136,5000,1,N,No,No,Returnee
+HH00103,Bago,Taungoo,6,507627.0,Yes,771338,147875,3,Y,No,No,Resident
+HH00104,Sagaing,Monywa,6,445040.0,Yes,1153980,92541,12,No,Yes,No,Resident
+HH00105,Bago,Bago,3,402741.0,Yes,544412,46389,1,Y,No,No,IDP
+HH00106,Bago,Taungoo,4,269727.0,No,0,0,12,Yes,No,No,Resident
+HH00107,Ayeyarwady,Pathein,8,407040.0,Yes,543976,99471,3,Y,No,No,Resident
+HH00108,Northern Shan,Muse,4,646747.0,Yes,367465,109084,2,Y,Yes,No,Resident
+HH00109,Kayin,Hpa-An,4,398575.0,no,0,0,1,Yes,Yes,No,Resident
+HH00110,Shan North,Lashio,4,259835.0,yes,1396606,72215,0,Yes,Yes,No,Resident
+HH00111,Chin,Matupi,3,331396.0,Yes,179462,14486,8,Yes,No,No,IDP
+HH00112,Ayeyarwady,Pathein,6,456153.0,Yes,921798,72311,2,Yes,No,No,Resident
+HH00113,Rakhine,Kyaukphyu,6,352767.0,No,0,0,1,Y,No,No,IDP
+HH00114,Kayin,Kawkareik,4,507355.0,yes,956891,50986,4,Yes,No,No,Resident
+HH00115,Rakhine,Sittwe,7,514112.0,yes,940718,67877,1,No,No,No,Resident
+HH00116,Rakhine,Sittwe,3,580017.0,Yes,393624,56955,4,Unknown,No,Yes,Resident
+HH00117,Sagaing,Kalay,1,676241.0,Yes,231031,164521,1,Yes,Yes,Yes,IDP
+HH00118,Magway,Magway,5,599255.0,No,0,0,8,Yes,No,No,Returnee
+HH00119,Chin,Hakha,9,251837.0,yes,616266,104003,1,No,Yes,Yes,Resident
+HH00120,Magway,Minbu,1,257364.0,yes,462096,27663,0,Y,No,Yes,Returnee
+HH00121,Kayin,Hpa-An,3,406361.0,Yes,568142,124554,3,Yes,No,No,Resident
+HH00122,Shan North,Lashio,5,338788.0,Y,467744,35826,0,Yes,No,No,Resident
+HH00123,Shan North,Laukkaing,6,215101.0,Yes,704412,97456,8,No,No,No,IDP
+HH00124,Kayin,Hpa-An,2,340495.0,Y,1224997,90919,3,N,No,No,Resident
+HH00125,Bago,Pyay,4,334588.0,yes,875397,107367,1,Yes,Yes,No,IDP
+HH00126,Rakhine,Kyaukphyu,6,299067.0,No,0,0,1,Yes,No,Yes,Resident
+HH00127,Magway,Magway,4,363158.0,Yes,246445,31650,8,Unknown,Yes,No,IDP
+HH00128,Ayeyarwady,Hinthada,3,632121.0,Y,270636,15053,2,Yes,No,No,Resident
+HH00129,Shan South,Pekon,3,455863.0,No,0,0,8,Yes,No,No,Resident
+HH00130,Shan South,Taunggyi,4,864926.0,yes,928411,88052,0,No,No,No,Resident
+HH00131,Rakhine,Mrauk-U,5,450691.0,No,0,0,8,Yes,No,No,IDP
+HH00132,Rakhine,Kyaukphyu,7,367788.0,yes,677824,5000,2,Yes,No,No,Resident
+HH00133,Magway,Pakokku,5,420744.0,Yes,1369417,34758,3,No,No,No,Resident
+HH00134,Rakhine,Kyaukphyu,6,466169.0,Yes,1368134,9784,1,No,Yes,No,Resident
+HH00135,Bago,Pyay,9,498346.0,Yes,365660,5000,0,Yes,No,No,Resident
+HH00136,Kachin,Bhamo,4,793808.0,Yes,776744,25443,12,Yes,Yes,No,Resident
+HH00137,Shan South,Taunggyi,4,267842.0,Yes,274450,13237,12,No,No,No,IDP
+HH00138,Sagaing,Shwebo,8,574628.0,Y,922074,107016,1,No,No,No,Resident
+HH00139,Kachin,Myitkyina,3,457395.0,Yes,1284212,44143,8,Y,No,No,Resident
+HH00140,Kayin,Hpa-An,6,137202.0,Yes,726587,16980,0,Y,No,Yes,Resident
+HH00141,Tanintharyi,Kawthaung,6,558726.0,Yes,532736,51652,0,No,Yes,No,Resident
+HH00142,Chin,Hakha,2,648172.0,Yes,812557,120766,0,N,No,No,Resident
+HH00143,Chin,Tedim,5,265708.0,yes,996873,37073,1,Y,No,No,Resident
+HH00144,Kayah,Demoso,3,418392.0,no,0,0,0,Yes,No,No,Resident
+HH00145,Tanintharyi,Dawei,3,109436.0,Yes,999464,73016,1,Unknown,No,No,IDP
+HH00146,Bago,Bago,5,193415.0,N,0,0,0,N,No,Yes,Resident
+HH00147,Sagaing,Shwebo,4,608645.0,N,0,0,3,Yes,No,No,Resident
+HH00148,Chin,Tedim,6,336045.0,no,0,0,4,Yes,Yes,No,Resident
+HH00149,Bago,Taungoo,7,220415.0,No,0,0,3,No,No,No,IDP
+HH00150,sagaing,Kalay,6,461303.0,Yes,536391,43117,1,Yes,Yes,No,Returnee
+HH00151,Bago,Bago,4,325966.0,No,0,0,4,No,Yes,No,Resident
+HH00152,Chin,Hakha,4,335252.0,yes,454022,153404,1,No,No,No,Resident
+HH00153,Mon,Mawlamyine,3,553079.0,N,0,0,4,Yes,No,No,Resident
+HH00154,Kachin,Bhamo,3,210888.0,No,0,0,2,Yes,No,No,IDP
+HH00155,Kayin,Hpa-An,8,257034.0,Yes,757594,82858,1,N,No,No,Resident
+HH00156,Shan North,Lashio,4,447734.0,N,0,0,0,Yes,No,No,Resident
+HH00157,Magway,Minbu,3,594494.0,yes,558214,185069,4,No,No,No,Resident
+HH00158,Rakhine,Kyaukphyu,7,642869.0,No,0,0,8,Yes,No,No,Resident
+HH00159,Rakhine,Kyaukphyu,4,300289.0,Y,1106754,42552,3,Yes,Yes,No,Resident
+HH00160,Ayeyarwady,Pathein,1,588728.0,No,0,0,12,No,Yes,Yes,Resident
+HH00161,Tanintharyi,Myeik,3,278854.0,No,0,0,8,Yes,No,Yes,IDP
+HH00162,Shan North,Muse,5,748718.0,Y,554235,65359,0,No,No,No,IDP
+HH00163,Kayah,Loikaw,6,215921.0,N,0,0,3,No,Yes,No,Resident
+HH00164,Kayah,Demoso,3,659126.0,no,0,0,1,Yes,Yes,Yes,Resident
+HH00165,Kayah,Demoso,7,301833.0,No,0,0,2,Yes,No,No,IDP
+HH00166,Bago,Pyay,7,782384.0,No,0,0,0,No,No,No,IDP
+HH00167,Kachin,Putao,7,526438.0,No,0,0,12,No,No,No,IDP
+HH00168,Mandalay,Myingyan,3,237117.0,Yes,701055,43445,3,No,Yes,Yes,Returnee
+HH00169,Kachin,Bhamo,2,325997.0,Yes,803586,140344,1,Y,Yes,No,Resident
+HH00170,Sagaing,Kalay,7,560613.0,Yes,190230,24233,1,Yes,No,Yes,Resident
+HH00171,Magway,Minbu,4,609476.0,No,0,0,1,Yes,Yes,No,Resident
+HH00172,Magway,Magway,5,407271.0,Yes,480895,55344,3,No,Yes,Yes,Resident
+HH00173,Ayeyarwady,Pathein,6,428038.0,No,0,0,8,No,No,No,Resident
+HH00174,Ayeyarwady,Myaungmya,3,556504.0,N,0,0,1,Y,No,No,Resident
+HH00175,Shan North,Laukkaing,6,443724.0,Yes,1349463,120077,2,Yes,Yes,Yes,Resident
+HH00176,Kayin,Kawkareik,8,187169.0,Y,980513,63104,2,Yes,No,No,Resident
+HH00177,Ayeyarwady,Pathein,6,273665.0,yes,549790,9673,1,No,No,No,IDP
+HH00178,Mandalay,Kyaukse,4,462322.0,Y,923609,97097,2,Yes,Yes,No,Resident
+HH00179,Mon,Ye,7,638787.0,Yes,1100099,65513,0,Yes,No,No,Resident
+HH00180,Rakhine,Mrauk-U,5,710877.0,No,0,0,0,No,No,No,Resident
+HH00181,Tanintharyi,Kawthaung,6,560315.0,Y,600377,82652,1,Yes,No,No,Resident
+HH00182,Mandalay,Mandalay,7,471712.0,Y,962164,8840,8,Yes,No,No,Resident
+HH00183,Kayin,Hpa-An,6,554786.0,Yes,907620,74078,1,Yes,No,No,Resident
+HH00184,Shan North,Laukkaing,4,299985.0,No,0,0,1,N,Yes,No,Resident
+HH00185,Kayin,Myawaddy,2,392418.0,Y,279477,5000,3,Yes,No,No,IDP
+HH00186,Kayin,Myawaddy,3,271656.0,Yes,602234,140147,8,Yes,No,No,Resident
+HH00187,Mandalay,Kyaukse,5,195226.0,Y,1236140,90992,2,Yes,Yes,No,Resident
+HH00188,Kayah,Demoso,5,480039.0,Yes,1336702,73068,0,Yes,No,Yes,IDP
+HH00189,Chin,Matupi,5,453392.0,No,0,0,3,Yes,No,No,Resident
+HH00190,Kachin,Myitkyina,4,543777.0,yes,983656,54695,1,No,No,No,IDP
+HH00191,Shan North,Laukkaing,6,518300.0,Yes,469890,44512,3,Yes,No,No,Resident
+HH00192,Shan South,Hopong,7,463676.0,Y,20000,132919,1,Yes,No,Yes,Resident
+HH00193,Shan South,Pekon,3,520191.0,No,0,0,0,Yes,No,No,Resident
+HH00194,Kayah,Demoso,6,412317.0,Yes,425429,38935,1,Yes,No,No,Resident
+HH00195,Tanintharyi,Dawei,6,494320.0,yes,237010,65804,3,Yes,No,No,Returnee
+HH00196,Magway,Minbu,5,289294.0,No,0,0,1,No,No,No,Resident
+HH00197,Kachin,Bhamo,3,486547.0,Yes,1267222,169220,1,No,No,Yes,Resident
+HH00198,Magway,Pakokku,6,540315 MMK,yes,68697,59050,2,No,No,No,Resident
+HH00199,Kachin,Bhamo,8,299457.0,N,0,0,4,Yes,No,No,IDP
+HH00200,Tanintharyi,Kawthaung,6,429330.0,Y,287975,119475,0,Y,No,No,Resident
+HH00201,Kayah,Loikaw,7,,Yes,750308,46354,3,No,No,No,Resident
+HH00202,Mon,Mawlamyine,9,325229.0,Yes,675401,53516,3,Yes,No,No,Returnee
+HH00203,Kayin,Kawkareik,4,217513.0,Y,1214986,99613,1,Yes,Yes,No,Resident
+HH00204,Shan North,Lashio,5,647839.0,Yes,884438,5000,12,No,Yes,No,Resident
+HH00205,Kayin,Kawkareik,5,611823.0,Yes,626624,168744,8,Yes,No,No,Resident
+HH00206,Chin,Matupi,9,516738.0,N,0,0,1,Yes,No,No,Resident
+HH00207,Ayeyarwady,Myaungmya,2,774995.0,Yes,1114145,5000,0,No,No,Yes,IDP
+HH00208,Tanintharyi,Kawthaung,4,385936.0,Yes,540301,20932,1,Yes,Yes,No,Resident
+HH00209,Chin,Hakha,7,965717.0,Yes,1248886,85993,1,Unknown,Yes,No,Returnee
+HH00210,Ayeyarwady,Pathein,4,379045.0,No,0,0,2,Yes,Yes,No,Resident
+HH00211,Chin,Tedim,6,465935.0,Y,381272,76537,8,Yes,No,No,Resident
+HH00212,Ayeyarwady,Hinthada,4,348400.0,yes,20000,26177,8,Yes,Yes,No,Resident
+HH00213,Bago,Taungoo,9,487019.0,Yes,662755,113055,1,Yes,No,No,Resident
+HH00214,Kayin,Kawkareik,7,570411.0,Yes,20000,57848,1,N,No,No,Resident
+HH00215,Ayeyarwady,Hinthada,4,399495.0,Y,1003390,9685,0,Y,No,No,Resident
+HH00216,Chin,Matupi,6,739810.0,No,0,0,2,N,No,No,Resident
+HH00217,Magway,Magway,4,,No,0,0,0,No,No,Yes,IDP
+HH00218,Magway,Magway,5,468687.0,no,0,0,8,Yes,No,No,Resident
+HH00219,Kayin,Myawaddy,5,256380.0,Y,730214,77969,8,Yes,Yes,No,Resident
+HH00220,Mon,Thaton,7,,No,0,0,1,Yes,No,No,Resident
+HH00221,Magway,Pakokku,1,395875.0,no,0,0,3,N,No,No,Resident
+HH00222,Kayin,Kawkareik,3,310517.0,Yes,1250033,64644,2,Yes,Yes,No,Resident
+HH00223,Shan North,Muse,6,280235.0,no,0,0,4,Yes,No,No,Returnee
+HH00224,Mandalay,Myingyan,5,900917.0,Y,589940,113473,2,Yes,No,Yes,Resident
+HH00225,Ayeyarwady,Hinthada,5,372574.0,Y,185778,65060,0,Y,No,No,Resident
+HH00226,Kachin,Putao,2,157743.0,no,0,0,3,Yes,No,No,Resident
+HH00227,Bago,Taungoo,4,294320.0,Y,490496,68749,0,No,No,Yes,Resident
+HH00228,Shan South,Pekon,7,410718.0,No,0,0,2,No,No,No,Resident
+HH00229,Rakhine,Mrauk-U,1,518400.0,Yes,946942,99937,1,Y,Yes,No,Resident
+HH00230,Mandalay,Mandalay,4,519863.0,Y,387961,81151,3,Yes,Yes,Yes,Resident
+HH00231,Kayin,Kawkareik,8,541791.0,Y,1171655,37589,4,Yes,No,No,Resident
+HH00232,Bago,Taungoo,2,303925.0,Yes,700808,66308,0,Yes,No,No,IDP
+HH00233,Sagaing,Kalay,6,481279.0,N,0,0,1,Y,No,No,Resident
+HH00234,Ayeyarwady,Myaungmya,3,262309.0,Y,627948,5000,3,Unknown,Yes,No,Resident
+HH00235,Kayin,Kawkareik,7,308464.0,No,0,0,0,No,No,No,Resident
+HH00236,Ayeyarwady,Myaungmya,6,254812.0,Yes,1143767,40154,2,Yes,Yes,No,Resident
+HH00237,Shan North,Muse,7,206090.0,No,0,0,3,Yes,No,No,Resident
+HH00238,Kayin,Hpa-An,3,611558.0,Yes,1009125,47038,1,No,Yes,No,Resident
+HH00239,Kachin,Myitkyina,5,543950.0,Yes,431073,129591,4,Yes,No,No,Resident
+HH00240,Shan South,Taunggyi,6,,No,0,0,2,No,No,No,Resident
+HH00241,Magway,Magway,3,427076.0,Yes,997860,84390,2,Y,No,No,Resident
+HH00242,Shan South,Hopong,3,559825.0,Yes,916403,62015,0,Yes,Yes,No,IDP
+HH00243,Magway,Magway,1,102968.0,Y,647071,45227,0,Yes,No,Yes,Returnee
+HH00244,Shan North,Lashio,8,575356.0,Yes,966423,43796,0,Yes,No,No,IDP
+HH00245,Shan South,Taunggyi,6,451882.0,no,0,0,8,Yes,Yes,No,Resident
+HH00246,Magway,Minbu,5,532880.0,yes,1169805,60787,8,No,No,No,IDP
+HH00247,Ayeyarwady,Myaungmya,6,488404 MMK,Y,657178,109143,4,Yes,Yes,No,Resident
+HH00248,Kayah,Demoso,5,242330.0,no,0,0,0,Yes,Yes,No,Resident
+HH00249,Bago,Taungoo,5,150353.0,yes,658353,61594,2,Yes,No,No,IDP
+HH00250,Sagaing,Kalay,4,291830.0,Yes,639492,115222,4,Yes,Yes,No,IDP
+HH00251,Mandalay,Myingyan,5,521685.0,N,0,0,3,No,No,Yes,Resident
+HH00252,Kayin,Kawkareik,3,544216 MMK,Yes,418002,69319,0,No,No,Yes,Returnee
+HH00253,Mandalay,Kyaukse,7,173770.0,Y,653600,113906,8,Yes,Yes,No,Resident
+HH00254,Kachin,Bhamo,6,243402.0,No,0,0,0,Yes,Yes,No,Resident
+HH00255,Shan North,Muse,4,289818.0,Yes,615054,156373,0,Yes,No,No,Resident
+HH00256,Mandalay,Mandalay,5,355685.0,Yes,595211,64304,8,Yes,No,No,Resident
+HH00257,Shan North,Muse,3,174831.0,no,0,0,2,Yes,No,No,Returnee
+HH00258,Magway,Magway,9,164031.0,Yes,590139,15751,1,N,No,No,Resident
+HH00259,Mandalay,Kyaukse,7,272070.0,Yes,287146,51120,2,Yes,No,No,Resident
+HH00260,Shan South,Pekon,8,435526.0,Yes,1047540,73509,12,Yes,No,No,IDP
+HH00261,Bago,Pyay,4,207493.0,No,0,0,0,Yes,Yes,No,IDP
+HH00262,Mandalay,Kyaukse,3,399155.0,yes,480375,130194,4,Y,No,No,IDP
+HH00263,Kachin,Myitkyina,3,610540.0,N,0,0,1,Yes,No,No,IDP
+HH00264,Mon,Thaton,2,185680.0,No,0,0,0,N,No,No,IDP
+HH00265,Tanintharyi,Myeik,3,382840.0,Yes,1192912,131492,1,Yes,Yes,No,Resident
+HH00266,Shan South,Hopong,2,604456.0,Yes,351419,52714,2,Y,No,Yes,Resident
+HH00267,Kayin,Myawaddy,9,344712.0,No,0,0,1,No,Yes,Yes,IDP
+HH00268,Kachin,Bhamo,2,316739.0,yes,1284808,85851,1,Yes,No,No,Resident
+HH00269,Shan South,Taunggyi,3,629429.0,N,0,0,3,Yes,Yes,No,Resident
+HH00270,Shan South,Taunggyi,7,364884.0,No,0,0,2,Yes,Yes,No,Resident
+HH00271,Kachin,Bhamo,5,618809.0,Y,556331,107326,3,Y,No,No,Resident
+HH00272,Sagaing,Shwebo,6,497214.0,No,0,0,4,Y,No,No,Resident
+HH00273,Mandalay,Kyaukse,5,358288.0,Y,1002555,49285,1,Yes,No,No,IDP
+HH00274,Tanintharyi,Myeik,7,506344.0,Y,726804,116695,1,Yes,No,No,Resident
+HH00275,Kayah,Hpruso,5,477681.0,Y,243899,75556,2,Yes,No,Yes,Resident
+HH00276,Kayin,Hpa-An,5,603759.0,Y,259964,30739,2,Yes,Yes,No,Resident
+HH00277,Kayin,Hpa-An,6,321298.0,no,0,0,0,No,No,No,Resident
+HH00278,Ayeyarwady,Pathein,4,427417.0,No,0,0,1,Yes,No,No,Resident
+HH00279,Sagaing,Monywa,4,408927.0,Yes,452915,96470,0,Yes,No,No,Resident
+HH00280,Magway,Minbu,5,546747.0,Yes,537292,45821,1,Y,No,No,Resident
+HH00281,Chin,Hakha,3,235468.0,Y,668044,23387,12,No,Yes,No,Resident
+HH00282,Kayin,Myawaddy,6,603056.0,Y,800081,125912,2,Y,No,No,Resident
+HH00283,Shan North,Lashio,4,503939.0,Y,622279,65881,1,Yes,Yes,No,Resident
+HH00284,Kayin,Kawkareik,3,182953.0,N,0,0,2,N,No,No,Resident
+HH00285,Kayin,Kawkareik,3,637487.0,Yes,780704,5000,3,No,No,No,Resident
+HH00286,Tanintharyi,Dawei,7,822137.0,Y,837886,214585,1,Yes,No,No,Resident
+HH00287,Mandalay,Mandalay,4,600330.0,N,0,0,1,Yes,No,No,Resident
+HH00288,Shan South,Taunggyi,6,676857.0,No,0,0,3,N,No,Yes,IDP
+HH00289,Rakhine,Mrauk-U,7,435367.0,No,0,0,0,No,No,No,IDP
+HH00290,Kayin,Kawkareik,2,120929.0,Yes,607063,69639,2,Y,No,No,Resident
+HH00291,Bago,Pyay,6,88058.0,No,0,0,2,No,No,No,Resident
+HH00292,Chin,Matupi,4,465915.0,N,0,0,4,Y,No,No,Resident
+HH00293,Tanintharyi,Myeik,3,313444.0,yes,910262,149040,12,No,Yes,No,Resident
+HH00294,Kachin,Myitkyina,6,255376.0,Y,991239,5000,4,N,No,No,Resident
+HH00295,Rakhine,Mrauk-U,7,408706.0,Yes,847190,190737,2,Yes,No,No,Resident
+HH00296,Rakhine,Sittwe,4,530805.0,Y,867854,23043,0,Yes,No,No,Resident
+HH00297,Bago,Taungoo,5,158504.0,N,0,0,2,No,Yes,No,IDP
+HH00298,Kayin,Hpa-An,4,,No,0,0,4,Yes,Yes,No,IDP
+HH00299,Chin,Tedim,5,691777.0,yes,748640,17369,8,No,No,No,IDP
+HH00300,Sagaing,Shwebo,5,226448.0,Yes,1081481,31985,4,No,No,No,IDP
+HH00301,Kayah,Loikaw,5,,Yes,675985,36400,0,No,No,No,Resident
+HH00302,Bago,Pyay,5,332748.0,Yes,458743,141877,3,Y,No,No,Resident
+HH00303,Sagaing,Shwebo,3,518243.0,Yes,686210,49836,8,Yes,No,No,Resident
+HH00304,Mon,Mawlamyine,6,617519.0,yes,249170,5000,3,Y,Yes,Yes,Resident
+HH00305,Rakhine,Sittwe,6,553431.0,No,0,0,3,Yes,Yes,No,Resident
+HH00306,Magway,Pakokku,6,,Yes,212052,80038,2,No,Yes,No,Resident
+HH00307,Kachin,Myitkyina,2,212713.0,No,0,0,3,N,No,No,Resident
+HH00308,Rakhine,Mrauk-U,4,620459.0,No,0,0,1,Yes,No,No,IDP
+HH00309,Kachin,Myitkyina,4,266515.0,Yes,993082,49784,0,Yes,No,No,Resident
+HH00310,Magway,Minbu,2,466718.0,Yes,1199690,42712,4,Yes,No,No,Resident
+HH00311,Shan North,Lashio,3,466484.0,Y,566696,26419,8,No,No,No,IDP
+HH00312,Shan North,Muse,4,507322.0,Yes,996767,169388,8,Yes,No,No,IDP
+HH00313,Magway,Minbu,6,480652.0,N,0,0,1,Yes,No,No,Resident
+HH00314,Chin,Tedim,3,268114.0,Yes,33364,59423,0,N,No,No,Resident
+HH00315,Chin,Matupi,7,,N,0,0,1,Yes,No,No,IDP
+HH00316,Shan North,Lashio,5,577023.0,yes,1092673,9887,4,No,Yes,No,Resident
+HH00317,Ayeyarwady,Pathein,6,453450.0,Yes,848339,129966,3,No,No,No,Resident
+HH00318,Ayeyarwady,Pathein,5,626888 MMK,Yes,677380,99762,12,Yes,Yes,No,IDP
+HH00319,Tanintharyi,Dawei,5,411948.0,no,0,0,1,Yes,Yes,No,Resident
+HH00320,Ayeyarwady,Pathein,5,167070.0,No,0,0,2,Unknown,No,Yes,Resident
+HH00321,Kachin,Myitkyina,8,593903.0,Y,1266316,162679,4,No,No,No,Resident
+HH00322,Magway,Minbu,5,353333.0,Yes,628311,51043,1,Yes,Yes,Yes,Resident
+HH00323,Shan South,Taunggyi,5,481561.0,Yes,328007,118963,12,Y,Yes,Yes,Resident
+HH00324,Mon,Ye,5,303457.0,Y,169879,63634,2,Yes,No,No,Resident
+HH00325,Tanintharyi,Kawthaung,6,715974.0,yes,685941,52365,0,Yes,Yes,No,Resident
+HH00326,Chin,Matupi,2,262218.0,Yes,747937,190403,0,No,Yes,No,Resident
+HH00327,Chin,Hakha,5,359263.0,N,0,0,8,Yes,No,No,IDP
+HH00328,Sagaing,Kalay,5,439341.0,Y,607440,55407,3,Yes,No,No,IDP
+HH00329,Magway,Magway,8,223407.0,Yes,1005366,85781,4,N,No,No,Resident
+HH00330,Rakhine,Kyaukphyu,5,479494.0,Yes,1153768,82411,4,Yes,No,No,IDP
+HH00331,Rakhine,Mrauk-U,5,710144.0,Yes,563052,5000,1,Yes,No,No,Resident
+HH00332,Kayah,Hpruso,8,331717.0,No,0,0,4,Yes,Yes,No,Resident
+HH00333,Kachin,Bhamo,4,491126.0,Y,83093,5000,8,No,No,No,Resident
+HH00334,Bago,Bago,3,50000.0,No,0,0,0,No,No,No,Resident
+HH00335,Kayin,Myawaddy,3,412993.0,Yes,782769,13699,4,N,No,No,Resident
+HH00336,Bago,Bago,2,363652.0,Y,1089452,76361,1,Yes,No,No,Resident
+HH00337,Tanintharyi,Kawthaung,1,272670.0,Y,564535,37027,1,Y,No,No,Resident
+HH00338,Kachin,Myitkyina,4,614661.0,Y,867791,38798,1,No,Yes,No,Resident
+HH00339,Mandalay,Mandalay,6,361276.0,Y,305118,128476,8,Yes,No,No,Resident
+HH00340,Tanintharyi,Myeik,6,388054.0,Yes,774117,64428,0,Yes,Yes,No,Resident
+HH00341,Shan South,Pekon,1,352105.0,Y,874502,75402,1,Y,No,No,Resident
+HH00342,Kachin,Myitkyina,5,74973.0,No,0,0,3,Yes,No,No,Resident
+HH00343,Shan South,Hopong,3,216242.0,No,0,0,0,No,No,No,Resident
+HH00344,Rakhine,Kyaukphyu,8,592997.0,Yes,784055,38242,4,No,No,No,IDP
+HH00345,Mon,Ye,3,,Y,1374640,48917,8,Yes,No,No,IDP
+HH00346,Chin,Tedim,5,282063.0,Y,1194606,66501,0,Unknown,No,Yes,IDP
+HH00347,Tanintharyi,Myeik,4,348050.0,No,0,0,0,Y,No,No,Resident
+HH00348,Tanintharyi,Myeik,5,733852.0,yes,932484,108040,12,Yes,Yes,No,Resident
+HH00349,Mandalay,Kyaukse,4,558349.0,yes,1051398,37172,0,No,No,No,IDP
+HH00350,Mandalay,Mandalay,6,319709.0,Yes,1026472,158090,0,Yes,Yes,No,Resident
+HH00351,Rakhine,Sittwe,3,654812.0,Y,559457,76562,12,No,Yes,No,Resident
+HH00352,Sagaing,Monywa,7,286707.0,No,0,0,8,Yes,Yes,No,Resident
+HH00353,Kachin,Bhamo,5,601638.0,no,0,0,3,Yes,No,No,Resident
+HH00354,Kayin,Hpa-An,6,175402.0,Yes,466794,59410,2,Yes,Yes,No,Resident
+HH00355,Tanintharyi,Dawei,7,613186.0,Yes,1248998,29809,8,Yes,No,No,Resident
+HH00356,Tanintharyi,Kawthaung,9,346896 MMK,No,0,0,3,Yes,No,No,Resident
+HH00357,Mandalay,Kyaukse,3,234869.0,Yes,320258,147491,3,Yes,No,No,Resident
+HH00358,Mon,Thaton,4,380914.0,Y,868592,170417,4,Unknown,No,No,Resident
+HH00359,Magwe,Magway,3,469922.0,No,0,0,3,Yes,No,No,IDP
+HH00360,Ayeyarwady,Myaungmya,4,330945 MMK,Yes,492346,80683,2,Yes,No,No,Resident
+HH00361,Bago,Taungoo,5,519712.0,Y,418763,81449,1,Yes,No,No,Resident
+HH00362,Mon,Mawlamyine,9,315061.0,yes,29066,105823,2,No,No,No,Resident
+HH00363,Chin,Matupi,9,531667.0,N,0,0,2,Yes,No,Yes,Resident
+HH00364,Mon,Thaton,5,499600.0,No,0,0,1,No,No,No,IDP
+HH00365,Magway,Minbu,5,409034.0,Yes,763216,72410,1,No,No,Yes,Resident
+HH00366,Rakhine,Mrauk-U,7,340551.0,Yes,513372,34736,4,Yes,No,No,Resident
+HH00367,Kayin,Hpa-An,8,447277.0,yes,904700,22301,1,Unknown,Yes,No,Resident
+HH00368,Kachin,Putao,3,519046.0,N,0,0,0,Yes,Yes,No,Resident
+HH00369,Sagaing,Monywa,5,791124.0,Y,829164,168350,1,No,Yes,Yes,Resident
+HH00370,Ayeyarwady,Myaungmya,7,589096.0,yes,1169933,7269,1,Yes,Yes,Yes,IDP
+HH00371,Kachin,Myitkyina,4,595678.0,Yes,462142,93965,4,No,Yes,No,Resident
+HH00372,Shan North,Lashio,4,975932.0,Y,625401,12027,1,Y,No,No,IDP
+HH00373,Kayah,Demoso,9,512873.0,Yes,784861,74549,1,Yes,No,No,Resident
+HH00374,Kayah,Hpruso,9,507236.0,Yes,1320014,63605,4,Yes,No,No,Resident
+HH00375,Mon,Thaton,7,546723.0,No,0,0,0,Yes,No,No,IDP
+HH00376,Magway,Pakokku,6,238386.0,No,0,0,0,Yes,No,Yes,Resident
+HH00377,Ayeyarwady,Pathein,4,,no,0,0,4,Unknown,Yes,No,IDP
+HH00378,Ayeyarwady,Myaungmya,4,328890.0,No,0,0,2,No,No,No,Resident
+HH00379,Kayah,Hpruso,5,536571.0,yes,1058801,17981,4,No,No,No,Resident
+HH00380,Chin,Hakha,5,,N,0,0,4,Unknown,No,No,Resident
+HH00381,Sagaing,Shwebo,5,444880.0,Y,290197,107475,8,Y,No,No,Resident
+HH00382,Tanintharyi,Dawei,5,615742.0,no,0,0,0,Y,No,Yes,IDP
+HH00383,Tanintharyi,Dawei,4,575367.0,No,0,0,4,Yes,Yes,No,Resident
+HH00384,Chin,Matupi,6,390890.0,No,0,0,3,Yes,No,No,Resident
+HH00385,Sagaing,Shwebo,4,299401.0,Yes,1029306,31917,1,Yes,Yes,No,IDP
+HH00386,Magway,Pakokku,4,624349.0,Yes,658427,12829,8,Yes,Yes,No,Resident
+HH00387,Sagaing,Shwebo,3,559300.0,yes,586573,112662,1,Yes,Yes,No,IDP
+HH00388,Bago,Pyay,3,130874.0,No,0,0,8,Yes,Yes,No,IDP
+HH00389,Mon,Mawlamyine,7,363632.0,No,0,0,2,Yes,No,No,Resident
+HH00390,Mandalay,Kyaukse,4,449793.0,Yes,497765,63793,2,Yes,No,No,Resident
+HH00391,Ayeyarwady,Pathein,3,560189.0,No,0,0,0,Yes,Yes,No,Returnee
+HH00392,Mandalay,Mandalay,6,,N,0,0,8,Yes,No,No,Resident
+HH00393,Kayah,Hpruso,5,471103.0,Yes,254572,45824,2,Yes,No,No,Resident
+HH00394,Shan South,Hopong,1,525345.0,N,0,0,0,Yes,No,No,IDP
+HH00395,Ayeyarwady,Pathein,4,431545.0,Y,1265339,78282,0,No,No,No,Resident
+HH00396,Mon,Ye,3,298707.0,N,0,0,4,No,No,No,IDP
+HH00397,Sagaing,Shwebo,5,372972.0,Yes,299192,60835,0,Yes,No,No,Resident
+HH00398,Mandalay,Myingyan,4,423418.0,Y,90900,29363,2,Yes,No,No,IDP
+HH00399,Chin,Matupi,2,413758.0,Yes,1126119,68588,3,Yes,No,No,Resident
+HH00400,Kachin,Bhamo,2,80597.0,No,0,0,1,Yes,No,No,Resident
+HH00401,Tanintharyi,Myeik,5,348453.0,N,0,0,2,Yes,No,No,IDP
+HH00402,Ayeyarwady,Hinthada,1,430117.0,Y,1311756,70709,1,Unknown,Yes,No,Resident
+HH00403,Kachin,Putao,7,369353.0,Yes,637407,103840,8,Yes,No,No,Resident
+HH00404,Tanintharyi,Dawei,3,375572.0,yes,20000,84222,8,Yes,No,No,IDP
+HH00405,Kayin,Hpa-An,5,507838.0,Yes,632855,141872,1,No,No,No,Returnee
+HH00406,Rakhine,Sittwe,4,225788.0,Y,987638,23984,2,Yes,No,No,Returnee
+HH00407,Kayin,Hpa-An,4,126952.0,no,0,0,2,Yes,No,No,Resident
+HH00408,Mandalay,Mandalay,2,357329.0,Y,1084749,63196,12,Yes,Yes,No,Resident
+HH00409,Tanintharyi,Dawei,6,557541.0,yes,333441,83870,1,N,No,No,Resident
+HH00410,Sagaing,Kalay,7,723760 MMK,Y,579031,144231,2,Yes,No,No,Resident
+HH00411,Mandalay,Mandalay,1,560783.0,N,0,0,8,No,No,No,Resident
+HH00412,Chin,Matupi,3,155713.0,Y,769218,84255,0,Y,No,No,Resident
+HH00413,Chin,Hakha,7,378174.0,Y,965226,124179,2,Yes,Yes,No,Resident
+HH00414,Magway,Minbu,5,466194.0,Yes,924262,138876,0,No,No,No,Resident
+HH00415,Sagaing,Monywa,3,451966 MMK,N,0,0,2,Yes,No,No,Resident
+HH00416,Shan North,Muse,3,517075.0,Yes,863039,82544,1,Yes,Yes,No,Resident
+HH00417,Tanintharyi,Dawei,5,254931.0,no,0,0,12,Yes,No,No,Resident
+HH00418,Magway,Magway,6,431690.0,Yes,1083710,70910,1,Unknown,Yes,Yes,IDP
+HH00419,Kachin,Bhamo,5,495658.0,Yes,661636,152471,0,Yes,No,Yes,Returnee
+HH00420,Rakhine,Mrauk-U,8,568621.0,yes,1217673,74632,4,Yes,No,Yes,Resident
+HH00421,Mon,Thaton,5,274971.0,Yes,491257,140843,4,N,Yes,No,IDP
+HH00422,Shan North,Muse,4,357872.0,No,0,0,3,Yes,No,No,IDP
+HH00423,Ayeyarwady,Myaungmya,5,50000.0,N,0,0,3,N,No,No,Resident
+HH00424,Shan South,Pekon,4,308137.0,Yes,930146,89201,1,No,No,No,Resident
+HH00425,Kayah,Demoso,3,325605.0,Yes,537345,89926,3,No,No,Yes,Resident
+HH00426,Mandalay,Mandalay,2,236475.0,No,0,0,0,No,Yes,No,Resident
+HH00427,Mon,Thaton,4,449810.0,Yes,642402,45105,0,No,Yes,Yes,Resident
+HH00428,Bago,Bago,6,409930.0,Yes,695165,86944,8,Yes,No,Yes,Resident
+HH00429,Sagaing,Monywa,1,50000.0,Yes,518612,115672,3,Unknown,Yes,Yes,IDP
+HH00430,Ayeyarwady,Myaungmya,4,458791.0,No,0,0,1,N,No,No,Resident
+HH00431,Magway,Pakokku,5,252902.0,Yes,1101091,118645,0,N,No,No,Resident
+HH00432,Ayeyarwady,Hinthada,5,507424.0,Yes,553313,109012,8,No,Yes,No,Returnee
+HH00433,Bago,Taungoo,6,189267.0,Y,677286,19391,0,No,No,Yes,Returnee
+HH00434,Magway,Minbu,6,425401.0,Y,885455,81576,1,No,No,No,IDP
+HH00435,Kayin,Hpa-An,6,369031.0,Yes,1557742,140577,0,Yes,No,No,IDP
+HH00436,Magway,Pakokku,2,474558.0,Yes,898903,86213,0,Yes,Yes,No,Returnee
+HH00437,Rakhine,Mrauk-U,5,,yes,707303,29834,1,No,No,Yes,Resident
+HH00438,Mon,Thaton,5,374070.0,Y,41354,35735,12,No,No,No,IDP
+HH00439,Magway,Minbu,3,143471.0,No,0,0,1,Yes,No,No,Resident
+HH00440,Kayah,Loikaw,2,154103.0,No,0,0,2,Yes,No,No,Resident
+HH00441,Tanintharyi,Dawei,3,314900.0,Yes,633299,5000,3,No,No,No,Resident
+HH00442,Kachin,Myitkyina,4,418510.0,yes,459487,63857,2,Yes,No,No,Resident
+HH00443,Magway,Minbu,4,310515.0,yes,574601,45222,3,Unknown,No,No,Resident
+HH00444,Kayin,Hpa-An,3,532538 MMK,yes,530470,152575,3,No,No,Yes,Resident
+HH00445,Rakhine,Mrauk-U,7,,Yes,881751,49786,2,Yes,Yes,No,Resident
+HH00446,Shan North,Lashio,8,246298.0,Yes,626078,73726,3,Yes,No,No,Resident
+HH00447,Kachin,Myitkyina,3,369943.0,Yes,381216,40389,4,No,No,No,Resident
+HH00448,Tanintharyi,Kawthaung,8,,Yes,1003683,56110,3,Yes,Yes,No,IDP
+HH00449,Rakhine,Sittwe,1,478479.0,No,0,0,4,Y,No,No,Resident
+HH00450,Kachin,Myitkyina,8,758108.0,Y,266856,73059,0,Yes,No,No,Resident
+HH00451,Tanintharyi,Kawthaung,8,299596.0,Yes,691303,5000,3,Yes,Yes,Yes,Resident
+HH00452,Mon,Thaton,1,406774.0,yes,635739,114059,3,Yes,No,No,IDP
+HH00453,Kayin,Hpa-An,6,496702.0,Yes,807930,175341,1,No,No,No,Resident
+HH00454,Sagaing,Shwebo,9,415784.0,Yes,1087888,140202,8,Unknown,No,No,Resident
+HH00455,Shan South,Hopong,7,329889.0,yes,1630030,109117,1,N,No,No,Resident
+HH00456,Rakhine,Mrauk-U,9,141134.0,N,0,0,1,Yes,No,No,IDP
+HH00457,Mandalay,Kyaukse,5,328050.0,No,0,0,8,Y,No,No,Returnee
+HH00458,Shan South,Pekon,2,226734.0,Y,707075,118818,1,Yes,Yes,No,IDP
+HH00459,Bago,Pyay,7,109211.0,Yes,454267,79846,1,No,Yes,No,IDP
+HH00460,Magway,Pakokku,5,276778.0,Yes,423295,92909,1,N,No,Yes,Resident
+HH00461,Ayeyarwady,Myaungmya,5,231523.0,No,0,0,8,Yes,No,No,Resident
+HH00462,Magwe,Minbu,4,525082.0,No,0,0,2,Unknown,No,No,Resident
+HH00463,Ayeyarwady,Pathein,5,528197.0,Y,421832,44088,3,Yes,No,Yes,Resident
+HH00464,Kayah,Hpruso,3,257302.0,Yes,794716,68803,4,Yes,No,No,Returnee
+HH00465,Sagaing,Kalay,6,373159.0,Y,20000,9500,2,No,No,No,Returnee
+HH00466,Tanintharyi,Kawthaung,2,85516.0,N,0,0,8,N,No,No,Resident
+HH00467,Mandalay,Kyaukse,6,331019.0,Yes,248457,35266,4,Yes,No,No,Resident
+HH00468,Shan South,Pekon,7,491817.0,Yes,795048,84852,1,Y,No,No,Resident
+HH00469,Mandalay,Myingyan,5,568489.0,No,0,0,12,Yes,No,Yes,Resident
+HH00470,Tanintharyi,Dawei,5,291652.0,N,0,0,2,No,Yes,No,Resident
+HH00471,Ayeyarwady,Myaungmya,4,609334.0,Y,1022848,108876,0,No,No,No,Resident
+HH00472,Bago,Taungoo,8,147175.0,N,0,0,1,Yes,Yes,No,Resident
+HH00473,Kayin,Kawkareik,6,195427.0,No,0,0,2,No,No,No,Resident
+HH00474,Kayin,Myawaddy,4,547739.0,Yes,1025166,102378,0,No,No,No,Resident
+HH00475,Shan South,Pekon,3,720802.0,Y,723388,124471,2,Yes,No,No,IDP
+HH00476,Ayeyarwady,Pathein,3,508818.0,Yes,971794,91924,1,Yes,No,No,Resident
+HH00477,Bago,Taungoo,5,412738.0,N,0,0,2,Yes,No,No,Resident
+HH00478,sagaing,Shwebo,8,50000.0,Yes,1094875,5000,0,Unknown,No,No,Resident
+HH00479,Shan North,Lashio,6,55960.0,Yes,548338,61239,4,No,No,No,IDP
+HH00480,Magway,Minbu,3,443294.0,Y,1053439,145713,1,Y,No,No,Resident
+HH00481,Kachin,Bhamo,7,355549.0,No,0,0,0,No,No,No,IDP
+HH00482,Bago,Pyay,4,220950.0,Y,142437,138503,1,Y,Yes,Yes,Resident
+HH00483,Chin,Hakha,7,431796.0,No,0,0,2,Yes,Yes,No,Resident
+HH00484,Bago,Taungoo,3,,yes,239994,23645,3,Yes,Yes,No,Resident
+HH00485,Kayin,Myawaddy,5,589995.0,yes,568000,60681,2,No,No,No,IDP
+HH00486,Chin,Matupi,8,,yes,104554,104245,0,Yes,Yes,No,Returnee
+HH00487,Kachin,Putao,3,641111.0,Y,887791,122432,8,Yes,No,No,IDP
+HH00488,Rakhine,Sittwe,6,421439.0,Y,498291,73219,2,No,No,No,IDP
+HH00489,Ayeyarwady,Pathein,9,399240.0,Y,639350,150960,0,Y,No,No,Resident
+HH00490,Shan South,Hopong,3,611576.0,No,0,0,4,No,No,No,Resident
+HH00491,Tanintharyi,Myeik,2,243881.0,No,0,0,3,Yes,No,Yes,Resident
+HH00492,Mon,Thaton,6,926601.0,Y,20000,31938,3,Unknown,No,No,Resident
+HH00493,Ayeyarwady,Pathein,4,487546 MMK,Yes,651939,26149,1,Yes,No,No,Resident
+HH00494,Shan South,Pekon,2,488549.0,Yes,559588,69327,1,Yes,Yes,No,IDP
+HH00495,Kachin,Putao,5,514517.0,yes,419810,77901,2,Unknown,No,Yes,IDP
+HH00496,Kayah,Loikaw,6,757885.0,Yes,869852,64368,0,Y,Yes,No,IDP
+HH00497,Magway,Magway,4,562651.0,Y,491382,67541,1,N,No,No,Resident
+HH00498,Kayah,Hpruso,4,131090.0,Y,647397,5000,12,Y,No,No,IDP
+HH00499,Mon,Mawlamyine,7,672625.0,Yes,811544,54705,3,No,Yes,No,IDP
+HH00500,Kayah,Loikaw,5,358639.0,yes,1091537,101597,1,Yes,Yes,No,IDP
+HH00501,Magway,Minbu,7,439288.0,Yes,1059523,29505,1,Yes,No,No,Resident
+HH00502,Shan North,Lashio,4,189734.0,yes,520015,19089,3,N,No,No,Resident
+HH00503,Tanintharyi,Myeik,8,514716.0,N,0,0,1,Y,Yes,No,IDP
+HH00504,Mon,Thaton,5,302753.0,Yes,403183,131345,0,Yes,Yes,Yes,Returnee
+HH00505,Chin,Matupi,2,438031.0,Yes,1170622,23334,0,Yes,Yes,No,Resident
+HH00506,Kayin,Hpa-An,7,368862.0,Yes,489603,71571,3,Yes,No,Yes,Resident
+HH00507,Rakhine,Mrauk-U,5,766502.0,No,0,0,3,Yes,Yes,Yes,Resident
+HH00508,Chin,Hakha,3,776807.0,Yes,854962,5000,0,Y,No,Yes,Resident
+HH00509,Chin,Matupi,3,428372.0,no,0,0,0,Yes,No,Yes,IDP
+HH00510,Chin,Tedim,6,431516.0,Yes,88950,97033,3,Yes,Yes,No,Resident
+HH00511,Tanintharyi,Myeik,2,352780.0,yes,20000,54894,2,N,No,No,Resident
+HH00512,Ayeyarwady,Hinthada,4,619081.0,Yes,706732,93705,3,No,Yes,No,Resident
+HH00513,Bago,Bago,3,,no,0,0,0,Yes,No,No,Resident
+HH00514,Bago,Taungoo,4,344159.0,Yes,600399,58541,3,Yes,Yes,No,Resident
+HH00515,Tanintharyi,Myeik,4,596147.0,No,0,0,8,Yes,No,No,Resident
+HH00516,Magway,Pakokku,5,323106.0,Y,945600,87834,2,Yes,No,No,Resident
+HH00517,Mon,Thaton,4,413204.0,Yes,423544,76698,0,Yes,No,No,Returnee
+HH00518,Sagaing,Kalay,1,135364.0,yes,784109,152321,3,Yes,No,No,IDP
+HH00519,Kayin,Kawkareik,5,546754.0,Yes,925213,129655,1,Yes,No,No,Returnee
+HH00520,Shan South,Pekon,4,769356.0,Y,436287,51412,0,Yes,No,No,Resident
+HH00521,Kayah,Loikaw,5,549821.0,Y,567617,68539,1,Yes,Yes,No,IDP
+HH00522,Mandalay,Kyaukse,2,683124.0,Y,297191,131967,8,Unknown,No,No,Resident
+HH00523,Mandalay,Kyaukse,1,267702.0,Yes,959173,61244,1,Yes,No,No,Resident
+HH00524,Bago,Pyay,3,462538.0,Yes,874599,85030,8,Yes,No,Yes,Resident
+HH00525,Kachin,Myitkyina,4,250231.0,Yes,901940,14506,2,N,No,No,Resident
+HH00526,Kachin,Bhamo,4,379002.0,Yes,599019,72388,2,Yes,No,No,Resident
+HH00527,Mon,Thaton,6,558998.0,Yes,868275,46720,0,Yes,Yes,No,IDP
+HH00528,Mandalay,Myingyan,4,438328.0,no,0,0,3,Y,Yes,No,IDP
+HH00529,Mon,Thaton,5,165725.0,Y,20000,26324,0,No,No,Yes,Resident
+HH00530,Mon,Thaton,5,183295.0,Y,628633,77875,2,Yes,No,No,Resident
+HH00531,Shan South,Pekon,1,171390.0,No,0,0,1,No,No,Yes,IDP
+HH00532,Mandalay,Mandalay,5,508461.0,Yes,1239312,101224,1,No,No,No,Resident
+HH00533,Mandalay,Mandalay,4,791501.0,Y,678536,73542,2,Yes,No,No,Resident
+HH00534,Chin,Matupi,4,665242.0,Yes,1036464,48445,0,Yes,No,No,IDP
+HH00535,Shan South,Hopong,2,78723.0,No,0,0,1,Yes,No,No,Resident
+HH00536,Mandalay,Myingyan,6,675794.0,No,0,0,12,Y,Yes,Yes,IDP
+HH00537,Kayin,Myawaddy,8,588552.0,Y,600901,25983,0,Yes,No,No,Resident
+HH00538,Magway,Pakokku,1,141846.0,no,0,0,1,Yes,No,No,IDP
+HH00539,Rakhine,Kyaukphyu,5,365424.0,Yes,1146617,92662,1,Yes,No,No,Resident
+HH00540,Sagaing,Shwebo,6,617194.0,No,0,0,1,N,Yes,Yes,IDP
+HH00541,Shan North,Lashio,4,519078.0,Yes,402367,69850,3,Yes,No,No,Resident
+HH00542,Sagaing,Kalay,6,184363.0,No,0,0,1,Yes,No,No,IDP
+HH00543,Mandalay,Myingyan,5,529934.0,N,0,0,2,Yes,No,No,IDP
+HH00544,Mandalay,Myingyan,8,50000.0,Yes,828378,63718,3,No,No,No,Resident
+HH00545,Bago,Bago,9,379892.0,Y,462935,45558,1,Yes,No,No,Resident
+HH00546,Sagaing,Kalay,2,624832.0,No,0,0,8,N,No,No,Resident
+HH00547,Kayin,Myawaddy,4,423311.0,Yes,768637,58888,12,Yes,No,No,Resident
+HH00548,Shan South,Pekon,5,330191.0,no,0,0,0,Yes,No,No,Resident
+HH00549,Rakhine,Kyaukphyu,3,580082.0,No,0,0,1,Yes,Yes,No,Resident
+HH00550,Shan North,Muse,4,595455.0,N,0,0,1,Yes,No,No,Resident
+HH00551,Bago,Bago,9,655807.0,No,0,0,0,Yes,No,No,Returnee
+HH00552,Kayah,Loikaw,1,577382.0,no,0,0,2,Y,No,No,Resident
+HH00553,Bago,Pyay,4,614647.0,Yes,491185,14877,2,Yes,Yes,No,Resident
+HH00554,Kachin,Putao,7,551924.0,No,0,0,1,No,No,Yes,Resident
+HH00555,Tanintharyi,Kawthaung,4,467795 MMK,N,0,0,1,Yes,No,Yes,Resident
+HH00556,Rakhine,Mrauk-U,5,436112.0,No,0,0,1,No,No,No,Resident
+HH00557,Ayeyarwady,Myaungmya,9,377293.0,No,0,0,12,Yes,No,No,IDP
+HH00558,Mon,Ye,5,201774.0,no,0,0,8,No,No,No,Resident
+HH00559,Bago,Pyay,3,248044.0,Y,677174,66845,0,Yes,No,No,Resident
+HH00560,Bago,Pyay,2,369237.0,Y,537423,83945,3,Unknown,No,No,Resident
+HH00561,Rakhine,Kyaukphyu,8,463461.0,Y,911801,106570,2,N,No,No,Resident
+HH00562,Sagaing,Shwebo,4,679346.0,yes,843455,64170,3,Y,No,No,IDP
+HH00563,Kayin,Hpa-An,5,412476.0,yes,451551,28024,2,N,No,No,Resident
+HH00564,Mandalay,Myingyan,2,600626.0,Y,442395,75884,8,Yes,No,No,Resident
+HH00565,Mon,Thaton,4,614277.0,Yes,374800,79323,0,Yes,No,No,Resident
+HH00566,Chin,Tedim,8,378340.0,Yes,312090,5000,1,Yes,No,No,Resident
+HH00567,Chin,Matupi,5,527044.0,Y,936792,53651,12,N,No,No,Resident
+HH00568,Chin,Matupi,9,376165.0,yes,357038,25777,0,Yes,No,No,Resident
+HH00569,Shan South,Taunggyi,3,657984.0,No,0,0,0,Yes,Yes,Yes,Returnee
+HH00570,Rakhine,Mrauk-U,5,534452.0,Yes,798063,136871,3,No,Yes,Yes,Resident
+HH00571,Tanintharyi,Dawei,7,205713.0,Yes,508924,65300,4,Yes,No,No,Resident
+HH00572,Kayah,Demoso,4,449074.0,Y,1025071,5000,3,No,No,No,IDP
+HH00573,Chin,Tedim,4,716660.0,yes,1338404,184985,4,Yes,No,No,Resident
+HH00574,Sagaing,Shwebo,7,387378.0,Yes,20000,70612,3,No,No,No,Resident
+HH00575,Sagaing,Kalay,4,500589.0,Y,398369,63085,0,N,No,No,IDP
+HH00576,Kayah,Demoso,5,518258.0,N,0,0,2,No,No,No,IDP
+HH00577,Mon,Thaton,9,233408.0,no,0,0,4,Yes,No,No,IDP
+HH00578,Rakhine,Mrauk-U,3,511927.0,Yes,503565,111529,8,Yes,No,No,IDP
+HH00579,Mon,Mawlamyine,4,169110.0,no,0,0,1,Yes,No,No,Resident
+HH00580,Magway,Pakokku,1,307388.0,Y,610601,34009,0,Yes,No,No,IDP
+HH00581,Magway,Minbu,4,613630.0,N,0,0,4,No,Yes,No,Resident
+HH00582,Bago,Bago,3,484216.0,Yes,589735,98165,1,Yes,No,Yes,Resident
+HH00583,Magway,Pakokku,6,365194.0,Y,235698,5000,0,Yes,No,Yes,IDP
+HH00584,Sagaing,Kalay,3,500363.0,Y,1347460,46091,4,Yes,No,No,IDP
+HH00585,Kayah,Loikaw,6,409183.0,Yes,601926,57099,2,N,Yes,No,IDP
+HH00586,Mon,Thaton,4,422264.0,No,0,0,1,Yes,No,No,Resident
+HH00587,Shan North,Laukkaing,4,538227.0,Y,841831,154776,0,Yes,Yes,No,IDP
+HH00588,Magway,Magway,4,289074.0,Y,852977,6674,0,Yes,No,No,Resident
+HH00589,Bago,Bago,6,427261.0,Yes,165557,57047,4,Yes,No,No,IDP
+HH00590,Bago,Bago,5,,No,0,0,2,N,No,No,Resident
+HH00591,Bago,Taungoo,4,134591.0,Yes,556118,5000,0,Yes,No,No,Resident
+HH00592,Mon,Mawlamyine,7,254318.0,yes,936769,26116,1,No,No,No,IDP
+HH00593,Chin,Matupi,5,702277.0,no,0,0,0,No,No,Yes,Resident
+HH00594,Tanintharyi,Dawei,3,489250.0,Yes,1172656,156928,0,Y,No,No,Resident
+HH00595,Kachin,Myitkyina,7,181754.0,Yes,563111,94754,1,No,No,No,Returnee
+HH00596,Bago,Taungoo,4,142736.0,Yes,218818,103065,2,No,No,Yes,Resident
+HH00597,Shan South,Hopong,1,399810.0,No,0,0,1,Yes,Yes,No,Resident
+HH00598,Ayeyarwady,Myaungmya,5,701014.0,yes,475633,26074,1,Yes,No,No,Resident
+HH00599,Shan South,Hopong,3,,Y,548733,54041,2,No,Yes,No,Resident
+HH00600,Shan South,Taunggyi,3,655260.0,Yes,536194,117736,1,No,No,No,Resident
+HH00601,Shan South,Hopong,6,483348.0,Yes,375142,153076,0,Yes,No,No,Resident
+HH00602,Ayeyarwady,Myaungmya,3,504825.0,Yes,186229,147694,0,Yes,Yes,No,Resident
+HH00603,Ayeyarwady,Pathein,6,179570.0,yes,294221,74954,0,Yes,No,No,Resident
+HH00604,Magway,Pakokku,8,588754.0,Y,478431,59532,1,Yes,No,No,Resident
+HH00605,Bago,Taungoo,5,359712.0,Y,930475,142492,3,Yes,No,No,Resident
+HH00606,Rakhine,Sittwe,6,575357.0,Yes,1066684,56781,0,Yes,Yes,No,Resident
+HH00607,Kachin,Putao,6,273449.0,no,0,0,4,Yes,Yes,No,IDP
+HH00608,Rakhine,Sittwe,9,451869.0,No,0,0,3,No,No,No,Resident
+HH00609,Tanintharyi,Dawei,4,483361.0,yes,714489,39806,0,No,No,No,Resident
+HH00610,Mon,Mawlamyine,3,392274.0,yes,302957,23416,0,No,No,No,Resident
+HH00611,Bago,Bago,5,492818.0,No,0,0,0,No,No,No,Resident
+HH00612,Kayin,Kawkareik,5,372049.0,yes,496849,86232,0,Yes,No,No,IDP
+HH00613,Ayeyarwady,Myaungmya,3,303169.0,Yes,20000,72914,2,Yes,No,No,Resident
+HH00614,Kayah,Hpruso,5,708987.0,Y,1180609,125486,0,No,No,No,Resident
+HH00615,Shan North,Laukkaing,1,608812.0,Yes,445186,12141,4,Y,Yes,No,IDP
+HH00616,Shan South,Taunggyi,8,283044.0,No,0,0,2,No,No,No,Resident
+HH00617,Chin,Matupi,4,522320.0,Yes,810941,5000,3,No,No,No,IDP
+HH00618,Chin,Tedim,1,286318.0,Yes,1038554,65389,4,No,No,No,Resident
+HH00619,Sagaing,Shwebo,2,206757.0,Yes,1290955,5000,2,No,Yes,No,Resident
+HH00620,Magway,Minbu,3,606086.0,No,0,0,8,No,Yes,No,IDP
+HH00621,Kayin,Kawkareik,4,113262.0,Y,971351,70477,12,No,No,No,Resident
+HH00622,Kayin,Kawkareik,1,586834.0,No,0,0,1,Yes,No,No,Resident
+HH00623,Mandalay,Kyaukse,4,374510.0,Yes,534132,13357,0,Yes,No,No,IDP
+HH00624,Kayah,Demoso,3,381922.0,no,0,0,1,Yes,Yes,No,Resident
+HH00625,Shan South,Hopong,4,493755.0,no,0,0,1,No,No,No,IDP
+HH00626,Chin,Hakha,4,524616.0,Yes,858512,105426,2,No,No,No,Resident
+HH00627,Kachin,Myitkyina,4,271258.0,No,0,0,1,Yes,No,No,Resident
+HH00628,Kayah,Demoso,4,549191.0,Y,1274795,120362,2,Yes,Yes,No,IDP
+HH00629,Rakhine,Sittwe,2,440407.0,N,0,0,4,Y,No,No,Resident
+HH00630,Kayah,Loikaw,1,193910.0,No,0,0,1,Yes,No,No,Resident
+HH00631,Ayeyarwady,Myaungmya,3,389423.0,N,0,0,2,Y,No,Yes,IDP
+HH00632,Kachin,Putao,6,668630.0,Yes,442137,29826,1,Yes,No,No,Resident
+HH00633,Kayin,Myawaddy,9,721787.0,No,0,0,4,Yes,No,No,Resident
+HH00634,Kayah,Demoso,8,549123.0,N,0,0,3,Yes,No,Yes,IDP
+HH00635,Mandalay,Kyaukse,5,205738.0,Y,171028,141295,0,Yes,No,Yes,Resident
+HH00636,Shan North,Laukkaing,5,508309.0,yes,377639,141610,3,Yes,No,No,Resident
+HH00637,Chin,Tedim,4,573155.0,Yes,833775,89846,0,Yes,No,No,IDP
+HH00638,Kachin,Myitkyina,6,550627.0,Yes,542596,104730,3,Yes,No,No,Resident
+HH00639,Bago,Pyay,6,561292.0,Yes,644585,58385,2,Yes,No,No,IDP
+HH00640,Tanintharyi,Myeik,7,,Yes,893602,68521,1,Y,No,No,IDP
+HH00641,Shan North,Laukkaing,7,406966.0,Yes,370583,101992,3,Yes,No,No,Resident
+HH00642,Mon,Ye,4,310494 MMK,Y,627605,97001,8,Yes,Yes,No,Resident
+HH00643,Bago,Taungoo,6,78372.0,Y,491149,20590,4,Yes,No,No,Returnee
+HH00644,Kayin,Myawaddy,6,481136.0,Y,1257276,144598,2,N,No,Yes,IDP
+HH00645,Ayeyarwady,Hinthada,4,453490.0,No,0,0,3,Y,No,No,Resident
+HH00646,Kachin,Bhamo,8,520364.0,Yes,959325,57549,1,Unknown,Yes,Yes,Resident
+HH00647,Kayin,Hpa-An,2,179242.0,Y,544889,137205,4,N,No,No,Resident
+HH00648,Rakhine,Kyaukphyu,9,536103.0,Yes,526159,46535,4,Yes,No,No,IDP
+HH00649,Tanintharyi,Kawthaung,6,789818.0,yes,1305282,72855,0,No,No,No,IDP
+HH00650,Bago,Taungoo,2,434121.0,Yes,1268949,12072,1,Yes,No,Yes,IDP
+HH00651,Kayin,Hpa-An,5,408900.0,Y,831365,168199,1,N,No,No,Resident
+HH00652,Shan North,Lashio,1,475620.0,yes,660413,63120,0,Yes,No,No,IDP
+HH00653,Mandalay,Myingyan,6,785821.0,Y,241287,123705,1,Yes,No,Yes,Resident
+HH00654,Bago,Pyay,6,235743.0,Y,380455,70734,0,N,No,No,Resident
+HH00655,Rakhine,Kyaukphyu,5,456577.0,Y,217924,145060,2,Y,No,No,Resident
+HH00656,Rakhine,Mrauk-U,7,276062.0,Yes,1054210,73579,0,Unknown,No,No,Resident
+HH00657,Ayeyarwady,Hinthada,2,321539.0,Y,246048,144116,1,Yes,Yes,No,Resident
+HH00658,Shan South,Pekon,4,411074.0,yes,521924,25266,3,Yes,Yes,No,Resident
+HH00659,Magway,Minbu,4,662518.0,no,0,0,1,Yes,No,No,Resident
+HH00660,Kachin,Bhamo,2,744178.0,No,0,0,1,Yes,Yes,No,IDP
+HH00661,Mandalay,Myingyan,4,500666.0,No,0,0,4,Yes,No,No,Resident
+HH00662,Ayeyarwady,Pathein,4,352213.0,N,0,0,12,Yes,No,No,Resident
+HH00663,Sagaing,Shwebo,4,868693.0,Y,33259,45932,2,Y,Yes,No,Resident
+HH00664,Mandalay,Myingyan,4,343040.0,Yes,140877,46973,0,Yes,Yes,No,Resident
+HH00665,Shan South,Hopong,7,317196.0,Yes,910543,58107,0,No,No,No,Resident
+HH00666,Shan North,Laukkaing,4,100510.0,Yes,774493,42450,12,Y,No,No,Resident
+HH00667,Rakhine,Sittwe,7,671296.0,No,0,0,3,No,No,No,Resident
+HH00668,Mon,Ye,4,,Yes,672809,161441,4,Yes,No,No,Resident
+HH00669,Mon,Ye,4,855205.0,Yes,528030,92299,3,Yes,Yes,No,IDP
+HH00670,Magway,Minbu,5,169886.0,Yes,102065,143405,0,Yes,Yes,No,Resident
+HH00671,Tanintharyi,Dawei,4,682471.0,no,0,0,1,No,Yes,No,IDP
+HH00672,Shan South,Hopong,3,432624.0,Yes,482978,122274,4,Yes,No,No,Resident
+HH00673,Shan South,Hopong,5,565098.0,Yes,606887,102521,8,Yes,No,No,IDP
+HH00674,Magway,Minbu,3,123400.0,No,0,0,1,Unknown,No,No,Resident
+HH00675,Shan South,Taunggyi,4,684255.0,Yes,884854,54640,2,No,Yes,No,Resident
+HH00676,Ayeyarwady,Myaungmya,5,561573.0,no,0,0,0,Y,No,Yes,Resident
+HH00677,Shan South,Taunggyi,4,412996.0,yes,1032167,40846,12,Yes,No,No,Resident
+HH00678,Magway,Magway,7,536120.0,No,0,0,1,Unknown,No,No,IDP
+HH00679,Rakhine,Mrauk-U,3,282211.0,No,0,0,3,Yes,No,No,Resident
+HH00680,Tanintharyi,Myeik,8,315701.0,No,0,0,1,Yes,Yes,No,Resident
+HH00681,Ayeyarwady,Myaungmya,6,336580.0,Yes,922277,57441,2,N,No,No,IDP
+HH00682,Magway,Pakokku,8,86509.0,Yes,772345,54210,3,N,No,No,IDP
+HH00683,Tanintharyi,Myeik,7,575117.0,Yes,667492,26639,1,Yes,No,No,Resident
+HH00684,Tanintharyi,Myeik,3,634487.0,Yes,736645,76988,4,Yes,Yes,No,Resident
+HH00685,Mandalay,Kyaukse,5,293758.0,Y,460946,72524,8,Yes,No,No,IDP
+HH00686,Bago,Bago,3,482677.0,Yes,696902,47264,8,No,No,No,IDP
+HH00687,Kayah,Loikaw,6,372203.0,Yes,604934,29750,1,Y,No,No,IDP
+HH00688,Shan South,Taunggyi,5,479089.0,No,0,0,3,Yes,Yes,No,IDP
+HH00689,Kayin,Myawaddy,4,307036.0,No,0,0,2,Yes,No,Yes,Resident
+HH00690,Ayeyarwady,Hinthada,8,260983.0,Yes,1471007,122660,2,No,No,No,Resident
+HH00691,Tanintharyi,Myeik,2,609373.0,Yes,745583,127745,2,No,No,No,Resident
+HH00692,Bago,Pyay,5,408503.0,Yes,20000,5000,2,Yes,No,No,Resident
+HH00693,Tanintharyi,Dawei,6,783980.0,Yes,510248,12965,0,No,Yes,No,IDP
+HH00694,Tanintharyi,Dawei,2,428336.0,yes,567188,84255,1,Unknown,No,No,Resident
+HH00695,Magway,Magway,5,253306.0,yes,972145,23778,0,Yes,No,No,Resident
+HH00696,Chin,Matupi,6,640849.0,No,0,0,1,No,No,No,Resident
+HH00697,Ayeyarwady,Pathein,2,533544.0,No,0,0,0,No,No,No,Resident
+HH00698,Shan South,Hopong,5,550837.0,N,0,0,1,No,No,No,Resident
+HH00699,Sagaing,Shwebo,3,634308.0,Y,789871,75648,4,Y,No,No,Resident
+HH00700,Magway,Pakokku,6,302497.0,Yes,771628,51610,2,No,No,No,IDP
+HH00701,Rakhine,Mrauk-U,2,397094.0,Yes,1134097,70342,0,Yes,No,No,Resident
+HH00702,Shan South,Taunggyi,8,389139.0,No,0,0,4,Yes,No,No,Resident
+HH00703,Mandalay,Mandalay,7,187666.0,Y,1270964,39433,8,No,Yes,No,Resident
+HH00704,Mandalay,Kyaukse,3,372554.0,Yes,909990,72315,8,Yes,No,No,Resident
+HH00705,Magway,Magway,4,660548.0,Yes,535290,103454,4,Yes,No,No,IDP
+HH00706,Rakhine,Kyaukphyu,5,462721.0,Yes,545289,5000,12,Yes,No,No,Resident
+HH00707,Sagaing,Monywa,6,177709.0,Yes,20000,132259,2,No,No,Yes,IDP
+HH00708,Shan South,Hopong,4,139949.0,No,0,0,12,Unknown,No,No,Resident
+HH00709,Kayin,Hpa-An,3,719660.0,Y,1080590,159930,8,No,No,No,Resident
+HH00710,Kayin,Hpa-An,2,403743.0,Y,643865,16831,1,Y,No,No,Resident
+HH00711,Shan North,Laukkaing,9,303466.0,Yes,503146,75514,8,Yes,No,No,IDP
+HH00712,Rakhine,Kyaukphyu,4,370681.0,Yes,297537,149186,4,Yes,Yes,No,IDP
+HH00713,Ayeyarwady,Hinthada,7,154085.0,yes,1433826,96523,4,Unknown,Yes,No,Resident
+HH00714,Ayeyarwady,Pathein,5,676157.0,No,0,0,8,Yes,No,Yes,Resident
+HH00715,Mon,Mawlamyine,8,349250.0,Yes,646198,16726,1,Y,No,No,Resident
+HH00716,Bago,Pyay,2,666132.0,Yes,1191252,78434,1,No,No,Yes,Resident
+HH00717,Rakhine,Mrauk-U,2,429297.0,yes,548792,96653,3,Yes,No,No,Resident
+HH00718,Kayin,Kawkareik,8,677316.0,N,0,0,3,No,No,No,IDP
+HH00719,Chin,Hakha,8,466205.0,yes,445001,81609,8,Yes,No,No,Resident
+HH00720,Shan South,Taunggyi,4,573582.0,Y,145137,123919,8,Yes,No,No,IDP
+HH00721,Magway,Minbu,4,549437.0,No,0,0,3,Yes,No,No,IDP
+HH00722,Tanintharyi,Dawei,4,532192.0,No,0,0,12,Yes,Yes,No,Resident
+HH00723,Bago,Bago,4,482628.0,Yes,613456,127146,0,Yes,No,Yes,Resident
+HH00724,Magway,Magway,3,378087.0,Y,579602,68871,12,N,Yes,No,IDP
+HH00725,Bago,Pyay,7,764778.0,Y,225689,109189,0,Yes,Yes,No,Resident
+HH00726,Magway,Magway,3,256751.0,Yes,343456,53111,2,Y,Yes,No,Resident
+HH00727,Ayeyarwady,Myaungmya,6,420775 MMK,yes,650367,80455,0,No,No,No,IDP
+HH00728,Magway,Minbu,2,422679.0,No,0,0,2,Yes,No,No,Resident
+HH00729,Kayin,Hpa-An,1,492439.0,Yes,52866,64614,1,Yes,No,No,IDP
+HH00730,Shan North,Laukkaing,5,342695.0,No,0,0,0,N,No,No,Resident
+HH00731,Ayeyarwady,Hinthada,4,476654.0,yes,928331,57975,3,No,No,Yes,Resident
+HH00732,Kayah,Loikaw,5,389608.0,yes,571344,82308,3,N,No,No,Resident
+HH00733,Mon,Ye,2,135249.0,No,0,0,0,Yes,No,No,Resident
+HH00734,Ayeyarwady,Pathein,8,421719.0,no,0,0,3,No,Yes,Yes,Resident
+HH00735,Mandalay,Kyaukse,6,221898.0,yes,605914,28627,0,Y,No,Yes,Resident
+HH00736,Shan North,Laukkaing,7,107811.0,yes,637279,119733,0,Unknown,No,Yes,Resident
+HH00737,Ayeyarwady,Pathein,3,444637.0,yes,282088,58148,0,Yes,No,Yes,Resident
+HH00738,Kachin,Myitkyina,4,507819.0,No,0,0,2,Unknown,No,Yes,Resident
+HH00739,Ayeyarwady,Hinthada,4,,N,0,0,4,Yes,No,No,Resident
+HH00740,Mon,Ye,5,522091.0,Y,166429,117362,2,Y,No,No,Resident
+HH00741,Bago,Bago,4,72134.0,N,0,0,4,No,No,No,Resident
+HH00742,Ayeyarwady,Hinthada,2,175017.0,Yes,617675,36741,2,No,No,No,Resident
+HH00743,Shan South,Pekon,4,,N,0,0,4,Yes,Yes,No,Resident
+HH00744,Chin,Hakha,3,231502.0,no,0,0,12,Y,Yes,No,Resident
+HH00745,Bago,Taungoo,4,529951.0,Yes,682293,20838,1,Yes,Yes,No,Resident
+HH00746,Kayah,Hpruso,3,296351.0,no,0,0,0,Yes,No,No,IDP
+HH00747,Rakhine,Mrauk-U,4,434341.0,No,0,0,0,No,No,No,Resident
+HH00748,Kachin,Myitkyina,5,306014.0,Yes,288277,9294,2,No,No,No,Resident
+HH00749,Kachin,Myitkyina,4,521077.0,Yes,276627,136080,2,Yes,Yes,No,IDP
+HH00750,Mandalay,Kyaukse,4,444619.0,N,0,0,0,No,No,No,Resident
+HH00751,Tanintharyi,Myeik,5,339308.0,Y,393409,95980,8,Yes,Yes,No,Resident
+HH00752,Mandalay,Kyaukse,6,,Yes,357295,109179,12,No,No,Yes,Resident
+HH00753,Magway,Pakokku,4,468199.0,Y,290871,76765,1,No,No,No,Resident
+HH00754,Tanintharyi,Myeik,5,201711.0,No,0,0,1,No,No,Yes,Resident
+HH00755,Rakhine,Sittwe,8,496947.0,No,0,0,1,Y,No,No,Resident
+HH00756,Kayin,Kawkareik,5,892767.0,yes,668498,179751,1,No,No,Yes,Resident
+HH00757,Ayeyarwady,Myaungmya,7,663031.0,Y,870649,48319,8,Yes,No,No,Resident
+HH00758,Kayah,Demoso,6,549303.0,N,0,0,2,No,No,No,Resident
+HH00759,Magway,Pakokku,2,404591.0,Y,889767,171218,0,Yes,No,No,Resident
+HH00760,Ayeyarwady,Myaungmya,4,71025.0,no,0,0,2,Yes,No,No,Resident
+HH00761,Mandalay,Mandalay,6,181988.0,Yes,79627,37088,0,Y,No,No,Resident
+HH00762,Rakhine,Kyaukphyu,9,650903.0,Yes,567086,56231,1,Yes,No,No,Resident
+HH00763,Tanintharyi,Dawei,4,277844.0,Yes,533535,16310,1,Yes,Yes,No,Resident
+HH00764,Tanintharyi,Myeik,2,294135.0,Y,1141385,10983,3,Unknown,Yes,No,Resident
+HH00765,Kayah,Loikaw,5,390183.0,Y,579926,122062,2,Yes,Yes,Yes,Resident
+HH00766,Ayeyarwady,Pathein,3,228832.0,N,0,0,8,Yes,No,No,IDP
+HH00767,Shan South,Hopong,6,199182.0,No,0,0,0,Yes,No,Yes,IDP
+HH00768,Kayin,Kawkareik,5,410915.0,Yes,639435,30927,4,Yes,Yes,No,Resident
+HH00769,Magway,Pakokku,6,259525.0,Y,177964,64650,0,No,No,No,Resident
+HH00770,Kayah,Hpruso,7,286617.0,no,0,0,1,Y,No,No,Resident
+HH00771,Shan North,Lashio,5,279386.0,Yes,385040,84235,8,No,No,No,IDP
+HH00772,Tanintharyi,Dawei,5,514025.0,Yes,159492,111587,3,Yes,Yes,No,Resident
+HH00773,Sagaing,Monywa,6,378217.0,Yes,690442,83543,0,No,Yes,No,Resident
+HH00774,Ayeyarwady,Hinthada,7,387857.0,No,0,0,2,Yes,No,No,IDP
+HH00775,Bago,Bago,7,527450.0,Yes,1154377,55299,3,No,No,No,Resident
+HH00776,Tanintharyi,Myeik,1,394433.0,No,0,0,8,No,No,No,IDP
+HH00777,Kayah,Loikaw,5,369914.0,Y,395964,50351,3,Yes,No,No,Resident
+HH00778,Magway,Pakokku,3,504681.0,No,0,0,0,Y,No,Yes,Resident
+HH00779,Chin,Tedim,7,540276.0,No,0,0,2,No,No,No,IDP
+HH00780,Bago,Taungoo,5,393527.0,Yes,582616,70907,0,Yes,No,No,Resident
+HH00781,Mon,Ye,4,434509.0,yes,359256,5000,0,No,No,No,Resident
+HH00782,Shan South,Pekon,3,279278.0,No,0,0,2,No,Yes,No,IDP
+HH00783,Magway,Pakokku,4,,No,0,0,4,Yes,No,No,IDP
+HH00784,Magway,Minbu,6,558447.0,Yes,453675,91192,0,Yes,Yes,No,Resident
+HH00785,Kayin,Kawkareik,3,500090.0,Y,697690,128980,4,No,No,No,Returnee
+HH00786,Shan South,Hopong,2,501954.0,yes,1334420,109170,3,N,Yes,No,Resident
+HH00787,Sagaing,Kalay,7,470554.0,Yes,1133882,109505,4,No,No,No,Resident
+HH00788,Shan North,Laukkaing,6,428317.0,Yes,1248465,158288,1,No,No,Yes,IDP
+HH00789,Rakhine,Kyaukphyu,3,545354.0,Yes,982908,106787,1,No,Yes,Yes,Resident
+HH00790,Sagaing,Shwebo,4,588320.0,Y,578169,73140,0,Yes,Yes,No,IDP
+HH00791,Magway,Magway,9,584021.0,no,0,0,1,Yes,No,Yes,Resident
+HH00792,Kayin,Hpa-An,6,401860.0,No,0,0,1,Yes,No,No,Resident
+HH00793,Ayeyarwady,Pathein,5,669659.0,No,0,0,1,N,No,No,Resident
+HH00794,Bago,Taungoo,4,461123.0,N,0,0,0,Y,No,No,Resident
+HH00795,Kayin,Kawkareik,4,533828.0,N,0,0,0,N,Yes,No,IDP
+HH00796,Kachin,Putao,1,470776.0,Yes,531757,102956,8,Yes,No,No,Resident
+HH00797,Tanintharyi,Dawei,6,464461 MMK,Yes,397878,66400,4,Yes,No,No,Resident
+HH00798,Kayin,Myawaddy,2,287565.0,No,0,0,1,No,No,No,Resident
+HH00799,Kachin,Myitkyina,1,546243.0,N,0,0,8,Yes,No,Yes,Resident
+HH00800,Kayin,Kawkareik,6,,Y,20000,152539,1,Yes,No,No,Resident
+HH00801,Sagaing,Monywa,8,352537.0,Y,572834,95501,1,Y,No,No,Resident
+HH00802,Kachin,Myitkyina,6,432779.0,yes,1160225,88513,4,No,No,No,Resident
+HH00803,Rakhine,Mrauk-U,5,339683.0,Yes,1155520,19122,1,No,No,Yes,Resident
+HH00804,Mon,Ye,5,332156.0,No,0,0,1,Yes,No,No,Resident
+HH00805,Ayeyarwady,Myaungmya,4,698001.0,Yes,1489082,123920,1,Yes,No,No,Resident
+HH00806,Ayeyarwady,Pathein,4,298865.0,yes,723221,139129,2,Yes,No,No,Resident
+HH00807,Rakhine,Sittwe,5,334666.0,Y,240978,62012,2,Yes,No,No,Resident
+HH00808,Magway,Pakokku,4,134251.0,Yes,1155488,5000,1,Yes,No,No,Resident
+HH00809,Kayah,Loikaw,5,283630.0,Yes,846160,98948,1,Yes,No,No,Resident
+HH00810,Tanintharyi,Myeik,7,112488.0,N,0,0,1,Unknown,No,No,Resident
+HH00811,Sagaing,Monywa,9,533725.0,N,0,0,2,Yes,No,No,IDP
+HH00812,Mon,Mawlamyine,2,923945.0,Y,1339229,5000,1,Yes,No,No,Resident
+HH00813,Shan North,Muse,4,,Yes,1213371,49824,8,Yes,No,No,IDP
+HH00814,Chin,Hakha,3,119984.0,yes,493547,20010,3,No,No,No,Resident
+HH00815,Ayeyarwady,Pathein,4,582000.0,N,0,0,1,Yes,No,No,Resident
+HH00816,Bago,Bago,4,289154.0,Y,269252,93159,3,Yes,No,No,IDP
+HH00817,Sagaing,Monywa,3,653882.0,Y,260684,108313,0,Yes,No,No,Resident
+HH00818,Magway,Magway,6,,yes,417962,20413,1,Yes,No,No,Resident
+HH00819,Shan North,Laukkaing,5,306273.0,no,0,0,1,No,Yes,No,Resident
+HH00820,Tanintharyi,Kawthaung,7,387968.0,Y,465267,90152,2,Yes,No,No,Resident
+HH00821,Sagaing,Monywa,1,556400.0,No,0,0,3,Yes,No,No,Resident
+HH00822,Shan North,Lashio,2,379064.0,No,0,0,12,Y,No,No,IDP
+HH00823,Magway,Magway,4,330590.0,yes,552926,76539,1,Yes,No,No,Resident
+HH00824,Shan North,Muse,2,384210.0,Y,893673,123709,1,No,No,No,Resident
+HH00825,Shan South,Hopong,4,191066.0,Yes,541467,28010,2,Yes,No,No,Resident
+HH00826,Magway,Minbu,9,491466.0,Yes,676633,96179,1,No,No,No,Resident
+HH00827,Northern Shan,Muse,3,98389.0,yes,138746,34923,0,Yes,Yes,No,IDP
+HH00828,Mon,Mawlamyine,3,340058.0,yes,398285,65648,12,Yes,No,No,Resident
+HH00829,Mon,Mawlamyine,5,556689.0,no,0,0,4,Yes,No,No,IDP
+HH00830,Sagaing,Monywa,5,474549.0,No,0,0,12,Unknown,No,No,Resident
+HH00831,Chin,Hakha,5,526258.0,N,0,0,1,Yes,No,No,Resident
+HH00832,Chin,Matupi,4,408292.0,yes,383638,106817,0,N,No,No,Resident
+HH00833,Kayin,Hpa-An,7,630554.0,Yes,88203,5000,1,N,No,No,IDP
+HH00834,Mandalay,Myingyan,3,586446.0,Yes,533139,67096,8,Yes,No,Yes,Resident
+HH00835,Bago,Pyay,4,500305.0,no,0,0,0,Yes,No,No,Resident
+HH00836,Ayeyarwady,Hinthada,6,586958.0,Yes,140875,47696,0,Yes,No,Yes,IDP
+HH00837,Bago,Pyay,7,555076.0,Y,509635,57302,0,Unknown,Yes,No,Resident
+HH00838,Mandalay,Myingyan,4,340897.0,Y,703159,45229,4,No,No,No,Resident
+HH00839,Sagaing,Monywa,5,178098.0,Y,1167243,96969,4,No,Yes,No,IDP
+HH00840,Mon,Mawlamyine,2,495665.0,Yes,367510,79253,3,Yes,No,No,Resident
+HH00841,Kachin,Bhamo,3,518296.0,N,0,0,0,Y,Yes,No,Resident
+HH00842,Shan North,Muse,2,616285.0,Yes,693405,129662,3,Yes,No,Yes,Resident
+HH00843,Mon,Thaton,6,251462 MMK,yes,439866,109530,1,Yes,No,No,IDP
+HH00844,Sagaing,Kalay,4,256842.0,Yes,664649,142120,0,Yes,No,Yes,Resident
+HH00845,Sagaing,Shwebo,6,502782.0,Y,1101812,83864,1,Yes,No,No,IDP
+HH00846,Sagaing,Monywa,2,407190.0,N,0,0,2,N,No,No,Resident
+HH00847,Mandalay,Mandalay,7,80563.0,Yes,558201,97797,1,Y,Yes,No,Resident
+HH00848,Sagaing,Kalay,7,487519.0,Yes,586842,150614,12,Yes,No,No,Resident
+HH00849,Bago,Bago,2,86564.0,N,0,0,2,Yes,No,No,IDP
+HH00850,Shan South,Pekon,1,249854.0,Yes,677465,56746,1,Y,No,No,Resident
+HH00851,Tanintharyi,Myeik,2,663303.0,Yes,489135,20413,3,No,No,Yes,Resident
+HH00852,Bago,Taungoo,7,748478.0,No,0,0,3,Yes,Yes,No,Resident
+HH00853,Tanintharyi,Kawthaung,3,,no,0,0,0,Yes,No,No,IDP
+HH00854,Chin,Tedim,5,360710.0,Y,844796,38099,2,No,Yes,No,Resident
+HH00855,Kachin,Myitkyina,4,427672.0,No,0,0,1,Unknown,No,Yes,Resident
+HH00856,Bago,Pyay,6,740621.0,no,0,0,1,No,Yes,No,Resident
+HH00857,Chin,Tedim,5,331284.0,No,0,0,3,Yes,No,No,Resident
+HH00858,Sagaing,Monywa,5,334161.0,No,0,0,2,No,No,No,Returnee
+HH00859,Shan North,Muse,9,698771.0,No,0,0,1,Yes,No,No,Resident
+HH00860,Bago,Bago,3,352538.0,Yes,1034352,16818,0,Y,Yes,Yes,IDP
+HH00861,Tanintharyi,Myeik,7,549996.0,No,0,0,2,Yes,No,No,IDP
+HH00862,Mon,Ye,2,154114.0,Y,694535,126760,1,Yes,No,No,Resident
+HH00863,Magway,Minbu,5,389178.0,Yes,20000,165822,8,Yes,No,No,IDP
+HH00864,Ayeyarwady,Pathein,7,121273.0,Y,501150,81349,2,Yes,No,No,Returnee
+HH00865,Bago,Taungoo,6,230022.0,Yes,850007,107676,8,Yes,No,No,IDP
+HH00866,Shan North,Lashio,6,571056.0,No,0,0,1,No,Yes,No,Resident
+HH00867,Bago,Pyay,4,,Yes,745859,119882,4,No,No,Yes,Resident
+HH00868,Bago,Bago,4,362561.0,Y,831675,154240,0,Y,No,Yes,IDP
+HH00869,Kayin,Hpa-An,4,285225.0,N,0,0,1,Yes,Yes,No,Resident
+HH00870,Sagaing,Monywa,5,380282 MMK,No,0,0,0,Yes,No,No,IDP
+HH00871,Kayin,Hpa-An,5,474200.0,Yes,832815,163409,0,Yes,Yes,No,Resident
+HH00872,Mandalay,Myingyan,4,596925.0,Yes,965378,5000,8,Yes,No,No,Resident
+HH00873,Magway,Pakokku,4,50000.0,yes,1563886,49155,3,Yes,No,No,IDP
+HH00874,Magway,Magway,3,270283.0,Yes,1173440,76206,2,N,No,No,Resident
+HH00875,Shan North,Laukkaing,4,448637.0,N,0,0,2,Unknown,No,No,Resident
+HH00876,Rakhine,Kyaukphyu,3,402205.0,No,0,0,2,Yes,Yes,No,IDP
+HH00877,Rakhine,Kyaukphyu,7,492608.0,Yes,1021382,44018,3,Y,No,No,IDP
+HH00878,Ayeyarwady,Pathein,5,468157.0,N,0,0,4,No,Yes,No,Resident
+HH00879,Rakhine,Kyaukphyu,3,,No,0,0,2,Yes,Yes,No,IDP
+HH00880,Shan South,Pekon,6,325166.0,Yes,869011,63606,3,No,No,No,IDP
+HH00881,Magway,Pakokku,7,375810.0,no,0,0,1,Yes,Yes,No,IDP
+HH00882,Bago,Pyay,3,626774.0,Yes,1202651,94740,12,Yes,Yes,No,Resident
+HH00883,Kayin,Kawkareik,3,288239.0,No,0,0,0,Unknown,No,No,Resident
+HH00884,Mandalay,Kyaukse,1,408695.0,No,0,0,1,No,No,No,IDP
+HH00885,Bago,Bago,2,453002.0,No,0,0,8,Yes,No,No,IDP
+HH00886,Ayeyarwady,Myaungmya,6,700863.0,N,0,0,0,Yes,No,No,Resident
+HH00887,Sagaing,Kalay,9,365945.0,Yes,977580,5000,0,Unknown,No,No,Resident
+HH00888,Mandalay,Myingyan,2,592585.0,no,0,0,1,Yes,No,No,Resident
+HH00889,Sagaing,Kalay,6,641756.0,Y,620050,93475,1,N,Yes,No,IDP
+HH00890,Chin,Matupi,2,408524.0,no,0,0,8,Y,No,No,IDP
+HH00891,Magway,Magway,5,,yes,728265,118252,4,Yes,Yes,No,Resident
+HH00892,Shan North,Lashio,6,360770.0,no,0,0,2,No,No,No,Resident
+HH00893,Rakhine,Mrauk-U,4,373952.0,Y,521934,77195,12,No,No,Yes,Resident
+HH00894,Tanintharyi,Dawei,1,573763.0,No,0,0,3,Y,No,No,IDP
+HH00895,Ayeyarwady,Hinthada,5,461582.0,No,0,0,8,Yes,No,No,Resident
+HH00896,Shan South,Pekon,9,462352.0,Y,1063429,5000,1,Yes,No,No,Resident
+HH00897,Rakhine,Kyaukphyu,3,217460.0,No,0,0,2,Yes,Yes,No,Resident
+HH00898,Sagaing,Monywa,3,245852.0,N,0,0,0,No,No,No,IDP
+HH00899,Sagaing,Monywa,3,805820.0,Yes,856273,59975,0,Y,Yes,Yes,Resident
+HH00900,Southern Shan,Hopong,5,387991.0,yes,330689,90144,3,No,No,No,Resident
+HH00901,sagaing,Monywa,5,280541.0,Yes,1079608,121761,0,No,Yes,Yes,Resident
+HH00902,Sagaing,Shwebo,6,677598.0,no,0,0,2,Yes,No,No,Returnee
+HH00903,Chin,Matupi,6,470726.0,Yes,602710,114408,3,Yes,No,No,Resident
+HH00904,Mon,Thaton,7,524068.0,Yes,953824,71068,0,Y,No,No,Resident
+HH00905,Kayin,Myawaddy,6,395152.0,yes,407422,46414,1,No,No,No,Resident
+HH00906,Shan North,Laukkaing,3,362639.0,yes,943249,73103,3,Y,Yes,No,Resident
+HH00907,Kayah,Demoso,5,389474.0,N,0,0,8,Yes,No,No,IDP
+HH00908,Mandalay,Myingyan,4,171107.0,no,0,0,1,Yes,Yes,No,IDP
+HH00909,Kayah,Demoso,4,404173.0,Yes,283836,5000,12,N,No,No,Resident
+HH00910,Magway,Pakokku,8,473286.0,yes,941141,50395,4,Yes,Yes,No,IDP
+HH00911,Ayeyarwady,Hinthada,6,753083.0,No,0,0,3,Yes,No,No,Resident
+HH00912,Mandalay,Mandalay,9,435480.0,Y,765636,130787,1,No,No,Yes,IDP
+HH00913,Kayah,Hpruso,4,50000.0,No,0,0,3,No,No,No,Resident
+HH00914,Tanintharyi,Myeik,5,403083.0,Yes,191876,72969,4,Unknown,Yes,No,Resident
+HH00915,Shan South,Pekon,5,913111.0,Y,590257,92088,1,N,No,No,IDP
+HH00916,Kayin,Myawaddy,2,575946.0,N,0,0,12,No,No,No,IDP
+HH00917,Rakhine,Mrauk-U,3,274040.0,Yes,1083706,15175,8,Yes,No,No,IDP
+HH00918,Ayeyarwady,Pathein,5,526399.0,no,0,0,2,Yes,Yes,No,Resident
+HH00919,Chin,Hakha,2,286438.0,Y,849429,121419,3,N,No,No,IDP
+HH00920,Shan South,Pekon,8,176315.0,Yes,584768,68815,2,Yes,No,Yes,Resident
+HH00921,Mon,Mawlamyine,3,357294.0,Y,796457,90517,4,Unknown,No,No,Resident
+HH00922,Shan South,Hopong,3,436475.0,Yes,853823,100258,4,No,No,Yes,Resident
+HH00923,Kayin,Hpa-An,6,83012.0,Yes,306310,119562,0,Yes,No,No,Resident
+HH00924,Mandalay,Myingyan,2,213151.0,Y,1058374,83374,0,Yes,No,No,Resident
+HH00925,Chin,Tedim,7,421860.0,Yes,127046,69836,1,No,Yes,No,IDP
+HH00926,Tanintharyi,Myeik,6,346529.0,Yes,718042,23493,8,Yes,No,Yes,Resident
+HH00927,Rakhine,Sittwe,2,491066.0,N,0,0,1,Yes,No,No,Resident
+HH00928,Kachin,Bhamo,6,,Yes,523952,11578,8,No,Yes,No,Resident
+HH00929,Kayah,Hpruso,5,548540.0,yes,862552,82468,2,Yes,No,No,IDP
+HH00930,Shan South,Taunggyi,6,206923.0,N,0,0,1,Yes,No,No,Resident
+HH00931,Rakhine,Sittwe,7,715692.0,Yes,73976,90816,8,No,No,No,IDP
+HH00932,Shan North,Muse,6,111164.0,Y,630222,98239,2,Y,No,No,Resident
+HH00933,Chin,Hakha,5,223340.0,Yes,512964,38933,1,Yes,No,No,Resident
+HH00934,Shan North,Lashio,4,495127.0,Y,380204,50782,0,Unknown,No,No,IDP
+HH00935,Kayin,Myawaddy,6,719562.0,Yes,656589,81658,0,N,Yes,Yes,Resident
+HH00936,Tanintharyi,Myeik,8,476708.0,no,0,0,0,Yes,No,No,IDP
+HH00937,Mandalay,Kyaukse,5,521314.0,Yes,583248,55951,1,Yes,No,No,Resident
+HH00938,Mandalay,Myingyan,6,423157.0,Y,527009,187848,2,Y,Yes,No,Resident
+HH00939,Kayin,Kawkareik,4,235248.0,Yes,380246,49891,1,Yes,Yes,Yes,Resident
+HH00940,Rakhine,Sittwe,6,331775.0,Yes,1802849,93946,0,Y,No,No,IDP
+HH00941,Shan North,Muse,9,201856 MMK,No,0,0,1,No,No,No,Resident
+HH00942,Kayah,Loikaw,3,189832.0,Y,167007,112921,1,Yes,No,No,Resident
+HH00943,Mon,Mawlamyine,3,492315.0,no,0,0,12,No,No,No,Resident
+HH00944,Kayin,Hpa-An,5,217828.0,Yes,331486,115908,1,No,No,No,Returnee
+HH00945,Magway,Magway,5,477520.0,Yes,576163,55209,0,N,No,No,IDP
+HH00946,Magway,Minbu,5,,No,0,0,2,Yes,Yes,No,IDP
+HH00947,Tanintharyi,Kawthaung,2,473349.0,No,0,0,8,N,Yes,Yes,Resident
+HH00948,Magway,Magway,4,332037.0,yes,1213208,100488,4,Yes,No,No,Resident
+HH00949,Tanintharyi,Kawthaung,5,,yes,990546,94571,4,No,No,No,IDP
+HH00950,Chin,Hakha,5,478269.0,yes,494444,102511,8,N,No,Yes,IDP
+HH00951,Magway,Minbu,5,642441.0,Yes,1073225,81063,3,Yes,No,No,IDP
+HH00952,Kachin,Putao,6,283984.0,No,0,0,12,Yes,No,No,IDP
+HH00953,Shan South,Taunggyi,5,430106.0,N,0,0,0,Y,No,No,IDP
+HH00954,Kayah,Demoso,6,243404.0,Yes,1280575,113272,4,Y,No,No,Resident
+HH00955,Ayeyarwady,Myaungmya,5,345551.0,Y,724194,86317,8,Yes,Yes,Yes,Resident
+HH00956,Shan South,Pekon,5,372821.0,Yes,698033,18694,8,Yes,No,Yes,Returnee
+HH00957,Kayah,Hpruso,5,289346.0,No,0,0,2,Y,No,No,Resident
+HH00958,Shan South,Hopong,2,201209.0,yes,618475,84953,4,Yes,No,No,Resident
+HH00959,Tanintharyi,Myeik,4,165567.0,Yes,504370,90195,0,No,No,No,Resident
+HH00960,Kayah,Loikaw,5,50000.0,no,0,0,2,Yes,No,No,Resident
+HH00961,Mandalay,Kyaukse,7,229858.0,Yes,657458,109816,1,Yes,Yes,No,IDP
+HH00962,Kayah,Loikaw,6,532949.0,Yes,882089,82522,2,Y,No,No,IDP
+HH00963,Bago,Pyay,2,132270.0,Yes,171475,155583,3,Yes,Yes,No,Resident
+HH00964,Chin,Tedim,5,173738.0,Yes,600338,71360,1,N,No,No,Resident
+HH00965,Tanintharyi,Myeik,3,742362.0,Y,530118,53021,1,No,No,No,Resident
+HH00966,Shan South,Taunggyi,6,305431.0,Yes,1190420,137372,1,Yes,Yes,Yes,IDP
+HH00967,Shan South,Taunggyi,7,477788.0,Y,805538,70162,3,Yes,No,No,Resident
+HH00968,Kachin,Putao,5,535617.0,yes,866691,78321,3,Yes,Yes,No,Resident
+HH00969,Mon,Mawlamyine,5,539255.0,No,0,0,3,Y,No,No,Resident
+HH00970,Sagaing,Monywa,4,145983.0,Yes,583422,90215,0,No,No,No,Resident
+HH00971,Kachin,Putao,4,378409.0,No,0,0,4,Y,No,No,Resident
+HH00972,Kayah,Loikaw,7,128719.0,N,0,0,3,Yes,No,No,Resident
+HH00973,Kayin,Myawaddy,6,860337.0,Y,495595,86352,0,Yes,Yes,No,Resident
+HH00974,Kayin,Hpa-An,5,132922.0,Yes,721477,102132,1,Yes,No,No,Resident
+HH00975,Mandalay,Mandalay,4,231389.0,Y,433302,106956,2,Y,No,No,Resident
+HH00976,Chin,Tedim,2,232692.0,No,0,0,1,Yes,No,No,Resident
+HH00977,Magway,Magway,3,,No,0,0,0,Yes,No,No,Resident
+HH00978,Shan South,Taunggyi,3,663467.0,Yes,332791,49235,1,Yes,No,No,IDP
+HH00979,Kachin,Myitkyina,4,856041.0,no,0,0,0,Yes,No,No,Resident
+HH00980,Rakhine,Sittwe,8,334365.0,Yes,464876,26758,0,No,No,No,IDP
+HH00981,Shan South,Pekon,5,182324.0,Yes,1005482,31393,1,No,No,No,Resident
+HH00982,Shan North,Laukkaing,3,50000.0,Yes,405379,131493,4,Unknown,Yes,No,IDP
+HH00983,Rakhine,Sittwe,2,376060.0,Y,450296,66534,2,Yes,Yes,No,Resident
+HH00984,Shan North,Lashio,4,363054.0,No,0,0,1,No,No,No,Resident
+HH00985,Shan South,Pekon,6,302767.0,Yes,295790,112483,3,Yes,No,Yes,Resident
+HH00986,Shan North,Muse,4,459848.0,No,0,0,2,Y,Yes,No,Resident
+HH00987,Shan South,Taunggyi,6,491131.0,Y,946358,108253,0,No,No,No,Resident
+HH00988,Kachin,Myitkyina,6,478155.0,Yes,838135,78312,1,Yes,No,Yes,IDP
+HH00989,Chin,Tedim,2,363098.0,yes,466468,38326,1,Y,No,No,Resident
+HH00990,Bago,Pyay,5,221708.0,Yes,1101467,109416,2,Yes,No,No,Returnee
+HH00991,Kachin,Bhamo,8,539850.0,Yes,407344,76792,2,Yes,No,No,Resident
+HH00992,Rakhine,Sittwe,4,422252.0,no,0,0,1,Yes,Yes,No,Resident
+HH00993,Mandalay,Myingyan,2,579904.0,yes,544960,24231,2,Yes,No,No,IDP
+HH00994,Kayin,Myawaddy,8,562214.0,No,0,0,12,N,No,No,Resident
+HH00995,Rakhine,Mrauk-U,7,164083.0,yes,712178,56303,1,No,Yes,No,Resident
+HH00996,Shan South,Taunggyi,5,161840.0,Y,316612,8439,2,No,No,Yes,Resident
+HH00997,Rakhine,Kyaukphyu,5,284003.0,No,0,0,2,N,No,No,IDP
+HH00998,Kayah,Hpruso,3,229872.0,yes,102669,58286,3,Y,No,No,Resident
+HH00999,Tanintharyi,Dawei,6,555945.0,N,0,0,3,Yes,No,No,Resident
+HH01000,Rakhine,Kyaukphyu,5,483236.0,Yes,620217,35611,3,Yes,No,No,Resident
+HH01001,Bago,Taungoo,1,617853.0,Y,877759,72050,1,Yes,No,Yes,Resident
+HH01002,Ayeyarwady,Pathein,6,491368.0,No,0,0,1,N,Yes,No,Resident
+HH01003,Rakhine,Kyaukphyu,8,457557.0,Yes,851910,66769,4,N,No,No,Resident
+HH01004,Mon,Mawlamyine,7,635951.0,no,0,0,1,No,Yes,No,IDP
+HH01005,Magway,Pakokku,4,504551.0,Y,374509,80135,12,Yes,No,No,Resident
+HH01006,Mon,Mawlamyine,2,432258.0,Y,208064,99275,1,Yes,No,No,Resident
+HH01007,Bago,Pyay,8,686482.0,Y,321998,116320,2,N,No,No,Returnee
+HH01008,Rakhine,Mrauk-U,8,440733.0,Y,531540,122814,2,Yes,Yes,No,IDP
+HH01009,Ayeyarwady,Hinthada,5,365219.0,Yes,257082,44500,1,No,No,No,Resident
+HH01010,Rakhine,Sittwe,5,269192.0,no,0,0,4,Yes,No,Yes,Resident
+HH01011,Chin,Hakha,5,546545.0,Y,783327,127672,0,Yes,No,Yes,Resident
+HH01012,Bago,Taungoo,4,642669.0,Y,1233313,76861,2,No,No,No,IDP
+HH01013,Chin,Matupi,2,410894.0,No,0,0,2,Unknown,Yes,Yes,Resident
+HH01014,Kachin,Putao,2,655425.0,Yes,1293211,61965,8,Y,No,No,Resident
+HH01015,Rakhine,Sittwe,3,65397.0,Yes,1034569,32602,2,Yes,No,No,Resident
+HH01016,Bago,Taungoo,7,,No,0,0,12,Yes,No,No,Resident
+HH01017,Kayah,Hpruso,3,412783.0,Yes,797070,5000,8,N,Yes,No,Resident
+HH01018,Kayin,Myawaddy,3,289141.0,Y,257443,96000,1,No,No,No,IDP
+HH01019,Sagaing,Monywa,5,849095.0,yes,190646,94213,8,Yes,No,Yes,Resident
+HH01020,Magway,Minbu,3,408085.0,Yes,967260,52441,12,No,No,No,Resident
+HH01021,Sagaing,Shwebo,3,346608.0,No,0,0,1,Yes,No,No,IDP
+HH01022,Magway,Pakokku,5,424673 MMK,Y,310866,53662,2,Yes,No,No,Resident
+HH01023,Mon,Mawlamyine,4,59494.0,Yes,311966,70445,1,Y,Yes,No,Resident
+HH01024,Bago,Pyay,5,283224.0,no,0,0,3,No,No,No,Resident
+HH01025,Bago,Bago,7,596983.0,No,0,0,0,Yes,No,No,IDP
+HH01026,Sagaing,Monywa,3,306790.0,Yes,685732,61230,3,Yes,Yes,No,Resident
+HH01027,Magway,Magway,7,270802.0,Yes,1236026,42627,1,Unknown,No,No,IDP
+HH01028,Chin,Matupi,7,655715.0,no,0,0,2,No,No,Yes,Resident
+HH01029,Rakhine,Sittwe,7,661246.0,Yes,1137002,28144,0,No,No,No,Resident
+HH01030,Kachin,Bhamo,5,513058.0,Y,675472,128240,3,Yes,No,No,Resident
+HH01031,Kayin,Kawkareik,5,338079.0,Yes,1045975,56088,2,Unknown,No,Yes,Resident
+HH01032,Mandalay,Myingyan,5,376895.0,Yes,844274,93953,2,N,No,No,Resident
+HH01033,Ayeyarwady,Myaungmya,6,275253.0,yes,461021,102718,1,No,No,No,IDP
+HH01034,Kachin,Myitkyina,1,240941.0,Yes,1301872,96227,0,Yes,No,No,Resident
+HH01035,Sagaing,Kalay,8,232005.0,Yes,848225,105247,1,No,No,Yes,Resident
+HH01036,Ayeyarwady,Myaungmya,5,308750.0,Y,138658,95710,8,Y,No,No,IDP
+HH01037,Mon,Mawlamyine,6,233750.0,yes,294134,48455,1,Y,No,No,Resident
+HH01038,Sagaing,Shwebo,4,138533.0,No,0,0,3,Unknown,Yes,No,Resident
+HH01039,Kayin,Myawaddy,1,459492.0,Yes,1406680,63603,0,No,No,No,Resident
+HH01040,Bago,Pyay,5,462227.0,no,0,0,3,Yes,Yes,No,Resident
+HH01041,Shan North,Lashio,5,726143.0,Y,390939,126866,1,Yes,No,No,Returnee
+HH01042,Bago,Taungoo,4,299699.0,yes,318313,54866,2,Y,No,No,Returnee
+HH01043,Kayah,Hpruso,4,473298.0,N,0,0,1,Yes,Yes,Yes,Resident
+HH01044,Kayah,Demoso,3,476288.0,Y,1087168,76925,0,Yes,No,No,IDP
+HH01045,Shan North,Laukkaing,5,374309.0,No,0,0,1,No,Yes,No,Resident
+HH01046,Mandalay,Kyaukse,4,553980.0,No,0,0,1,Yes,No,No,Returnee
+HH01047,Chin,Matupi,8,559541.0,N,0,0,2,Y,No,No,IDP
+HH01048,Shan South,Pekon,3,478934.0,N,0,0,12,Yes,No,No,Resident
+HH01049,Shan North,Muse,4,373985.0,no,0,0,2,Yes,No,No,Resident
+HH01050,Magway,Pakokku,4,355645.0,Y,103441,99480,8,Yes,Yes,No,IDP
+HH01051,Rakhine,Mrauk-U,5,173804.0,Yes,511237,144293,2,No,No,No,Resident
+HH01052,Kayah,Loikaw,5,274935.0,No,0,0,0,No,No,No,Resident
+HH01053,Rakhine,Sittwe,5,308039.0,Y,437835,122305,1,Yes,Yes,No,Resident
+HH01054,Tanintharyi,Dawei,8,217685.0,No,0,0,1,Yes,No,Yes,Resident
+HH01055,Magway,Minbu,4,499186.0,N,0,0,1,Yes,Yes,No,Resident
+HH01056,Tanintharyi,Dawei,6,635393.0,Y,1271494,36708,8,No,No,No,Resident
+HH01057,Kayin,Kawkareik,1,256549.0,Yes,582375,92488,3,Unknown,Yes,No,IDP
+HH01058,Ayeyarwady,Myaungmya,4,471019.0,Y,349929,87163,2,Y,No,No,Resident
+HH01059,Kayah,Loikaw,5,233860.0,Y,571278,63972,2,Yes,Yes,No,Resident
+HH01060,Kachin,Bhamo,1,365114.0,yes,667128,78207,1,No,Yes,No,Resident
+HH01061,Ayeyarwady,Hinthada,5,295741.0,No,0,0,2,Yes,No,No,Resident
+HH01062,Shan North,Muse,6,528341.0,Y,707358,48053,0,Yes,No,No,Resident
+HH01063,Mandalay,Myingyan,6,297818.0,No,0,0,0,Yes,No,No,Resident
+HH01064,Shan North,Muse,5,602099.0,Y,455690,69664,1,Yes,No,No,Resident
+HH01065,Ayeyarwady,Hinthada,5,375770.0,Yes,634335,55252,0,Yes,No,No,Resident
+HH01066,Kayah,Demoso,4,303071.0,yes,763379,5000,3,Y,No,No,Resident
+HH01067,Mon,Ye,2,194405.0,yes,394337,62403,0,Yes,No,No,Resident
+HH01068,Shan South,Pekon,2,465577.0,Y,350360,148314,0,No,No,No,IDP
+HH01069,Kachin,Bhamo,5,581139.0,Y,656602,82955,8,N,No,No,Resident
+HH01070,Sagaing,Kalay,9,469198.0,Yes,480869,74290,12,No,No,No,IDP
+HH01071,Shan North,Laukkaing,1,822990.0,Y,224661,67358,2,Yes,No,No,Resident
+HH01072,Mandalay,Myingyan,5,677362.0,No,0,0,2,No,No,No,Resident
+HH01073,Ayeyarwady,Myaungmya,6,,N,0,0,4,Yes,No,No,Resident
+HH01074,Rakhine,Mrauk-U,7,362755.0,Yes,322047,62517,0,Yes,No,Yes,Resident
+HH01075,Kayin,Kawkareik,5,504545.0,N,0,0,1,Yes,No,No,Resident
+HH01076,Mandalay,Mandalay,5,269157.0,Yes,20000,24240,0,Y,No,No,IDP
+HH01077,Shan North,Lashio,6,629932.0,Y,1162374,112368,1,Y,No,Yes,IDP
+HH01078,Mandalay,Kyaukse,7,485088.0,Y,1111664,137447,12,Y,No,No,Resident
+HH01079,Kayah,Hpruso,3,466163.0,Yes,885546,54621,4,No,No,No,Returnee
+HH01080,Bago,Pyay,8,543652.0,No,0,0,12,No,No,No,Resident
+HH01081,Mon,Thaton,1,730109.0,yes,286962,126604,3,Y,Yes,No,Resident
+HH01082,Tanintharyi,Myeik,7,450772.0,Y,672599,187231,2,N,Yes,No,IDP
+HH01083,Tanintharyi,Dawei,2,399653.0,Yes,522216,163780,4,Yes,Yes,No,Resident
+HH01084,Rakhine,Mrauk-U,3,691570.0,No,0,0,3,Unknown,Yes,No,Resident
+HH01085,Mandalay,Kyaukse,1,594159.0,Yes,595123,135122,2,N,No,Yes,Resident
+HH01086,Bago,Pyay,4,362224.0,Y,1243842,28967,1,Yes,Yes,No,Resident
+HH01087,Bago,Pyay,4,,Y,480251,28516,2,Yes,Yes,Yes,Resident
+HH01088,Tanintharyi,Dawei,3,455169.0,Yes,219519,105018,1,Yes,No,No,Resident
+HH01089,Shan North,Laukkaing,4,485126.0,Y,581180,77356,2,Y,No,No,Resident
+HH01090,Magway,Magway,4,175812.0,N,0,0,0,Yes,Yes,No,IDP
+HH01091,Rakhine,Sittwe,6,142353.0,N,0,0,2,Yes,Yes,No,IDP
+HH01092,Kayin,Myawaddy,7,260270.0,Yes,844684,5000,1,No,No,No,Resident
+HH01093,Bago,Pyay,5,246347.0,Yes,1100368,59291,1,N,No,No,Resident
+HH01094,Kayah,Loikaw,3,,No,0,0,2,Y,No,Yes,Resident
+HH01095,Kachin,Myitkyina,4,534248.0,Yes,836340,102932,0,No,No,No,Resident
+HH01096,Magway,Pakokku,7,,No,0,0,12,Yes,No,No,Resident
+HH01097,Bago,Pyay,2,455351.0,Yes,1129779,70281,1,Yes,No,Yes,Resident
+HH01098,Ayeyarwady,Myaungmya,4,199625.0,Yes,20000,77571,1,No,No,No,IDP
+HH01099,Sagaing,Kalay,8,336904 MMK,Y,720247,28458,0,Yes,No,Yes,Resident
+HH01100,Kayin,Myawaddy,8,525706.0,Yes,701622,58754,4,No,No,No,Resident
+HH01101,Kayin,Kawkareik,4,527091.0,N,0,0,2,Unknown,No,Yes,Resident
+HH01102,Kayin,Hpa-An,6,289577.0,Yes,180036,105217,1,No,No,No,IDP
+HH01103,Mon,Ye,4,449099.0,Y,452696,56713,1,No,No,No,Resident
+HH01104,Mandalay,Kyaukse,6,815793.0,No,0,0,3,No,Yes,No,IDP
+HH01105,Kachin,Putao,1,,N,0,0,8,Y,No,No,IDP
+HH01106,Mandalay,Myingyan,3,295226.0,N,0,0,1,Yes,Yes,No,Resident
+HH01107,Chin,Tedim,5,388723.0,No,0,0,0,Yes,No,No,Resident
+HH01108,Mon,Mawlamyine,3,436592.0,Y,488097,130597,0,Yes,No,No,Resident
+HH01109,Tanintharyi,Myeik,6,392790.0,Yes,635679,78559,0,No,No,No,Resident
+HH01110,Sagaing,Kalay,4,414356.0,Y,495777,95829,3,Yes,Yes,No,Resident
+HH01111,Shan South,Hopong,7,160180.0,Yes,1122261,104154,12,Yes,No,No,Resident
+HH01112,Chin,Matupi,6,246727.0,No,0,0,12,No,No,No,IDP
+HH01113,Mandalay,Mandalay,5,393120.0,Yes,890403,102280,4,Yes,No,No,Resident
+HH01114,Kachin,Bhamo,6,390252.0,yes,166915,35575,0,No,No,Yes,Resident
+HH01115,Mandalay,Mandalay,4,318086.0,No,0,0,12,Yes,No,No,Resident
+HH01116,Kayin,Kawkareik,5,388138.0,Y,578254,42336,1,Yes,No,No,Resident
+HH01117,Tanintharyi,Kawthaung,3,430983.0,No,0,0,1,Yes,No,No,Resident
+HH01118,Shan South,Taunggyi,7,580094.0,Yes,277412,5000,3,Yes,No,No,Resident
+HH01119,Ayeyarwady,Hinthada,7,402142 MMK,Yes,178715,63456,0,Unknown,Yes,No,Resident
+HH01120,Kayin,Kawkareik,7,491839.0,yes,625701,39313,4,Unknown,Yes,No,Resident
+HH01121,Sagaing,Kalay,7,322512.0,N,0,0,12,No,Yes,No,Resident
+HH01122,Magway,Magway,8,522977.0,Yes,677624,55477,4,No,No,No,IDP
+HH01123,Chin,Hakha,3,487631.0,N,0,0,4,Y,No,Yes,Resident
+HH01124,Chin,Matupi,8,575847.0,No,0,0,1,N,No,No,IDP
+HH01125,Bago,Taungoo,5,548423.0,Yes,1031701,67727,0,Yes,No,No,Resident
+HH01126,Bago,Pyay,4,,Y,893716,84145,4,Yes,No,No,IDP
+HH01127,Bago,Taungoo,5,402285.0,Yes,159275,70920,2,No,Yes,No,Resident
+HH01128,Shan South,Taunggyi,4,464089.0,Yes,217532,70135,8,Unknown,Yes,No,Resident
+HH01129,Rakhine,Mrauk-U,4,611432.0,Y,389204,92188,0,Yes,No,No,Resident
+HH01130,Shan North,Lashio,3,302627.0,Yes,180176,75662,1,Yes,No,No,IDP
+HH01131,Kayah,Hpruso,2,,yes,850345,115842,1,Yes,No,No,Resident
+HH01132,Shan North,Laukkaing,5,452658.0,Y,382541,75799,3,Yes,No,No,Resident
+HH01133,Bago,Taungoo,7,494750.0,yes,714451,144621,4,No,No,No,IDP
+HH01134,Ayeyarwady,Hinthada,5,271661.0,Y,131534,34000,12,Yes,No,No,Resident
+HH01135,Shan South,Taunggyi,5,406543.0,yes,1631562,62711,1,N,No,No,Resident
+HH01136,Sagaing,Monywa,4,403080.0,No,0,0,2,Y,Yes,No,IDP
+HH01137,Ayeyarwady,Hinthada,5,50000.0,Y,20000,48785,0,Yes,No,No,Resident
+HH01138,Kayah,Hpruso,3,380473.0,Y,20000,85841,1,Y,No,No,Returnee
+HH01139,Ayeyarwady,Pathein,7,391683.0,yes,933425,33975,1,Y,No,No,IDP
+HH01140,Rakhine,Kyaukphyu,3,391147.0,Yes,485247,116564,2,Yes,No,No,Returnee
+HH01141,Mon,Mawlamyine,6,674865.0,Y,37425,15529,2,Yes,No,No,IDP
+HH01142,Kachin,Bhamo,6,201156.0,N,0,0,1,Y,No,No,Resident
+HH01143,Tanintharyi,Dawei,5,271568.0,No,0,0,2,Yes,No,No,Resident
+HH01144,Bago,Pyay,7,50000.0,yes,570160,41145,4,Yes,No,No,Resident
+HH01145,Kachin,Bhamo,4,333435.0,No,0,0,1,Yes,Yes,No,IDP
+HH01146,Kayin,Hpa-An,7,348784.0,Yes,547147,18131,1,Yes,Yes,No,Resident
+HH01147,Rakhine,Mrauk-U,6,328204.0,Y,725010,68285,3,No,No,No,IDP
+HH01148,Ayeyarwady,Myaungmya,6,619382.0,No,0,0,4,Yes,Yes,Yes,Resident
+HH01149,Shan North,Laukkaing,6,574911.0,Yes,842217,84018,4,No,Yes,No,Resident
+HH01150,Bago,Bago,7,434014.0,Yes,722342,9916,1,Yes,No,No,Resident
+HH01151,Kayah,Hpruso,9,353290.0,Yes,822407,60111,2,Y,No,No,Resident
+HH01152,Rakhine,Kyaukphyu,4,,N,0,0,8,Yes,Yes,No,Resident
+HH01153,Kayin,Kawkareik,6,416444.0,yes,591691,122172,1,N,No,No,Resident
+HH01154,Mon,Thaton,6,272711.0,Y,398198,135803,1,N,No,No,Resident
+HH01155,Kachin,Putao,4,111075.0,Yes,1155566,108875,12,Yes,No,No,Resident
+HH01156,Shan South,Pekon,8,340563.0,Y,306783,5000,0,No,No,No,IDP
+HH01157,Magway,Pakokku,4,,yes,1027592,80012,3,Yes,No,No,Resident
+HH01158,Bago,Bago,5,829777.0,N,0,0,8,Y,Yes,No,Resident
+HH01159,Kayah,Hpruso,2,431090.0,Yes,389181,127810,0,No,No,No,Resident
+HH01160,Kachin,Myitkyina,3,282236.0,Yes,348454,55913,3,Yes,Yes,No,Resident
+HH01161,Shan South,Pekon,7,206706.0,yes,833712,24888,2,Yes,No,No,Resident
+HH01162,Kayin,Kawkareik,4,519352.0,yes,611682,124011,8,Yes,Yes,No,Resident
+HH01163,Bago,Bago,4,102369.0,Yes,723889,131134,8,Y,Yes,No,Resident
+HH01164,Rakhine,Mrauk-U,3,519062.0,yes,1046761,75348,8,Y,Yes,No,Resident
+HH01165,Rakhine,Sittwe,5,567188.0,Yes,20000,25240,0,Yes,No,No,Resident
+HH01166,Magway,Magway,6,498530.0,Yes,917167,5239,4,Yes,Yes,No,IDP
+HH01167,Sagaing,Monywa,7,380461.0,N,0,0,8,Yes,No,No,Resident
+HH01168,Kayah,Hpruso,2,521689.0,Y,535658,90232,2,No,Yes,No,Resident
+HH01169,Tanintharyi,Dawei,5,450769.0,No,0,0,2,Yes,No,No,Resident
+HH01170,Mon,Ye,5,279938.0,yes,1164350,49124,0,Yes,No,No,IDP
+HH01171,Shan South,Hopong,5,753074.0,yes,424779,72640,8,N,No,No,Resident
+HH01172,Shan South,Hopong,4,356698.0,Yes,772820,68059,0,Yes,No,No,IDP
+HH01173,Kayah,Hpruso,4,559635.0,Y,1017244,39039,1,No,No,No,IDP
+HH01174,Mandalay,Mandalay,5,50000.0,N,0,0,8,Yes,No,No,Returnee
+HH01175,Sagaing,Kalay,5,649765.0,Y,692056,95035,8,Yes,Yes,No,IDP
+HH01176,Kachin,Bhamo,5,684377 MMK,no,0,0,12,No,No,No,Resident
+HH01177,Kachin,Putao,5,425370.0,Y,509919,112787,2,Yes,No,No,IDP
+HH01178,Mandalay,Myingyan,6,520579.0,Yes,702135,110498,0,Yes,No,Yes,IDP
+HH01179,Chin,Tedim,6,520533.0,Yes,717936,91938,2,Unknown,No,No,Resident
+HH01180,Sagaing,Shwebo,4,304299.0,yes,428663,46615,0,Y,Yes,No,Resident
+HH01181,Shan South,Taunggyi,6,518482.0,no,0,0,8,No,No,No,IDP
+HH01182,Mon,Mawlamyine,7,274447.0,Yes,1078539,103598,2,Yes,No,No,Resident
+HH01183,Shan North,Muse,3,310424.0,Yes,291962,83139,1,Yes,No,No,IDP
+HH01184,Kayin,Kawkareik,5,622850.0,N,0,0,0,Yes,No,No,Resident
+HH01185,Kayah,Demoso,4,595438.0,Yes,20000,49173,1,N,No,No,IDP
+HH01186,Kachin,Bhamo,6,292852.0,Yes,986360,69368,8,Y,No,No,Resident
+HH01187,Magway,Pakokku,3,287956.0,yes,691269,5000,3,No,Yes,No,IDP
+HH01188,Shan South,Pekon,6,303793.0,yes,512711,90222,0,Unknown,No,No,Resident
+HH01189,Rakhine,Mrauk-U,3,551875.0,yes,812851,118306,0,Yes,No,No,IDP
+HH01190,Sagaing,Kalay,5,240003.0,Y,576410,67545,1,No,No,No,Resident
+HH01191,Kayah,Hpruso,8,484208.0,No,0,0,0,Yes,No,Yes,Resident
+HH01192,Chin,Tedim,4,554432.0,yes,183759,65797,8,Yes,Yes,No,Resident
+HH01193,Mandalay,Myingyan,7,404116.0,Yes,208449,5000,3,N,Yes,No,Resident
+HH01194,Shan North,Muse,9,601811.0,Yes,270187,142891,0,Y,Yes,No,Returnee
+HH01195,Rakhine,Kyaukphyu,7,365224.0,yes,555304,84894,4,Yes,Yes,No,Resident
+HH01196,Shan South,Pekon,3,381506.0,Y,470276,5000,1,Yes,No,No,Resident
+HH01197,Shan North,Lashio,6,244096.0,yes,977640,5000,1,No,No,Yes,IDP
+HH01198,Tanintharyi,Myeik,1,603092.0,Yes,455823,72542,2,Yes,No,No,Resident
+HH01199,Bago,Bago,4,282026.0,no,0,0,0,No,No,No,Resident
+HH01200,Shan South,Taunggyi,7,482959.0,Y,730671,42309,2,No,No,Yes,Resident
+HH01201,Mon,Ye,6,407163.0,Y,20000,38951,4,Yes,No,Yes,Resident
+HH01202,Kayin,Kawkareik,5,230499.0,yes,387935,40211,8,Yes,No,No,IDP
+HH01203,Tanintharyi,Dawei,4,310361.0,No,0,0,1,Yes,No,No,Resident
+HH01204,Ayeyarwady,Myaungmya,6,668917.0,N,0,0,3,N,No,No,Resident
+HH01205,Shan North,Lashio,6,456298 MMK,Y,989521,20388,1,Yes,No,Yes,Resident
+HH01206,Mon,Mawlamyine,5,238353.0,N,0,0,2,No,No,No,IDP
+HH01207,Rakhine,Kyaukphyu,7,474959.0,yes,755343,82123,1,Yes,Yes,No,Resident
+HH01208,Ayeyarwady,Pathein,3,393699.0,Y,986159,69009,2,No,No,No,IDP
+HH01209,Chin,Matupi,3,1041728.0,Yes,926896,67250,0,Yes,No,No,Resident
+HH01210,Tanintharyi,Kawthaung,5,471322 MMK,Yes,802037,7368,8,Yes,No,No,Resident
+HH01211,Shan South,Taunggyi,9,351488.0,no,0,0,8,No,No,No,IDP
+HH01212,Ayeyarwady,Pathein,3,675605.0,no,0,0,1,No,No,No,Resident
+HH01213,Kayin,Kawkareik,3,88613.0,no,0,0,4,Yes,No,No,Resident
+HH01214,Mon,Thaton,3,436978.0,Yes,20000,91990,0,Yes,No,No,Resident
+HH01215,Magway,Magway,7,778997.0,No,0,0,3,Unknown,No,No,IDP
+HH01216,Magway,Magway,3,399084.0,N,0,0,1,Yes,No,No,Resident
+HH01217,Rakhine,Mrauk-U,5,108006 MMK,N,0,0,0,Yes,Yes,No,Resident
+HH01218,Ayeyarwady,Myaungmya,9,348735.0,Yes,800914,96398,3,Yes,No,No,Resident
+HH01219,Bago,Pyay,1,681813.0,Y,466274,142038,2,Yes,No,Yes,IDP
+HH01220,Kayin,Hpa-An,5,487693.0,Yes,489043,93940,2,No,Yes,No,Resident
+HH01221,Shan North,Muse,5,269006.0,No,0,0,2,No,No,No,Resident
+HH01222,Rakhine,Kyaukphyu,6,296656.0,Yes,858123,152343,0,No,Yes,No,Resident
+HH01223,Tanintharyi,Dawei,4,319254.0,Yes,539040,45606,0,No,Yes,No,Resident
+HH01224,Shan North,Muse,4,485016.0,Yes,125649,144857,2,Yes,No,Yes,Resident
+HH01225,Kayah,Hpruso,3,660875.0,yes,797494,95388,2,No,No,No,IDP
+HH01226,Tanintharyi,Myeik,6,609436.0,N,0,0,0,Yes,No,Yes,Resident
+HH01227,Magway,Pakokku,6,502082.0,no,0,0,1,Yes,No,No,Resident
+HH01228,Tanintharyi,Dawei,3,180304.0,No,0,0,2,No,No,No,Resident
+HH01229,Mandalay,Kyaukse,4,180972.0,No,0,0,3,Yes,Yes,No,Resident
+HH01230,Kachin,Bhamo,7,515985.0,No,0,0,4,Yes,No,No,Resident
+HH01231,Bago,Taungoo,1,177815.0,Y,1740846,89627,1,Yes,Yes,No,Resident
+HH01232,Ayeyarwady,Hinthada,4,379398.0,No,0,0,2,No,No,No,Resident
+HH01233,Tanintharyi,Kawthaung,5,,N,0,0,2,Yes,No,No,IDP
+HH01234,Ayeyarwady,Pathein,4,215233.0,yes,194188,66184,1,No,No,No,Resident
+HH01235,Shan South,Pekon,4,235633.0,yes,308826,57186,0,Y,No,Yes,Resident
+HH01236,Kachin,Myitkyina,5,403058.0,Yes,509094,48584,0,No,No,No,Returnee
+HH01237,Sagaing,Shwebo,3,510657.0,Y,162351,146663,4,Yes,Yes,No,Resident
+HH01238,Magway,Pakokku,5,611073.0,Yes,754597,64854,1,Y,No,No,Resident
+HH01239,Kachin,Bhamo,6,529270.0,Yes,915173,96198,3,Yes,No,No,Resident
+HH01240,Sagaing,Shwebo,5,433258.0,N,0,0,2,N,No,Yes,Returnee
+HH01241,Rakhine,Sittwe,2,285685.0,Y,746492,105825,1,No,Yes,No,Resident
+HH01242,Ayeyarwady,Pathein,7,227237.0,N,0,0,4,Yes,Yes,No,Resident
+HH01243,Tanintharyi,Myeik,3,328042.0,Yes,696877,105160,3,Y,No,No,Resident
+HH01244,Kayin,Kawkareik,6,493788.0,no,0,0,0,Yes,Yes,No,Resident
+HH01245,Mon,Mawlamyine,4,480592.0,no,0,0,4,Yes,No,No,Resident
+HH01246,Tanintharyi,Myeik,6,50000.0,No,0,0,2,Yes,No,No,Resident
+HH01247,Mon,Mawlamyine,3,278578.0,yes,913589,82322,1,No,No,No,IDP
+HH01248,Kayin,Kawkareik,3,636811.0,Yes,572862,143868,3,No,No,No,IDP
+HH01249,Kachin,Bhamo,5,434259.0,N,0,0,3,N,Yes,No,Resident
+HH01250,Tanintharyi,Kawthaung,1,164938.0,yes,482734,92609,1,Yes,No,No,Resident
+HH01251,Chin,Hakha,3,844048.0,yes,794868,47570,12,No,No,No,Resident
+HH01252,Kayah,Loikaw,6,414790 MMK,yes,367262,59077,3,No,Yes,No,Resident
+HH01253,Magway,Magway,7,489180.0,No,0,0,2,No,No,No,Resident
+HH01254,Bago,Pyay,2,491914.0,yes,477724,9384,0,Yes,No,No,Resident
+HH01255,Shan North,Laukkaing,7,353833.0,Y,421977,86980,1,Yes,Yes,No,IDP
+HH01256,Magway,Minbu,6,289037.0,Yes,1093080,99948,1,No,No,No,Resident
+HH01257,Chin,Matupi,7,801901.0,Yes,20000,103859,3,Yes,Yes,No,Resident
+HH01258,Rakhine,Mrauk-U,6,600577.0,N,0,0,2,Yes,No,No,IDP
+HH01259,Rakhine,Mrauk-U,6,567949.0,Y,454647,95389,4,No,No,No,Resident
+HH01260,Bago,Pyay,5,523732.0,Y,645053,66329,1,Yes,No,Yes,IDP
+HH01261,Chin,Hakha,5,239403.0,yes,614217,73991,3,Yes,No,No,IDP
+HH01262,Mon,Thaton,7,649955.0,Y,1120542,74115,4,Yes,Yes,No,Resident
+HH01263,Kayin,Myawaddy,2,268236.0,No,0,0,4,No,No,Yes,Resident
+HH01264,Bago,Bago,4,470992.0,No,0,0,4,Unknown,Yes,No,Resident
+HH01265,Chin,Hakha,2,124910.0,Y,1029938,117296,8,Yes,No,No,IDP
+HH01266,Sagaing,Shwebo,8,52645.0,N,0,0,0,Yes,Yes,No,Resident
+HH01267,Sagaing,Shwebo,4,477292.0,Y,883466,5000,3,Y,Yes,No,IDP
+HH01268,Kayah,Hpruso,6,274362.0,Y,1040821,54394,12,Yes,Yes,No,Resident
+HH01269,Tanintharyi,Myeik,7,61950.0,N,0,0,2,Unknown,Yes,No,IDP
+HH01270,Sagaing,Kalay,9,517310.0,N,0,0,1,No,Yes,No,Resident
+HH01271,Kayah,Demoso,3,801615 MMK,yes,900505,31236,12,Yes,Yes,No,Returnee
+HH01272,Magway,Pakokku,6,670121.0,Yes,235224,163937,0,Yes,No,No,Resident
+HH01273,Tanintharyi,Dawei,7,373683.0,N,0,0,1,Yes,No,No,Resident
+HH01274,Shan North,Laukkaing,2,421592.0,Y,315056,126575,0,Y,No,No,IDP
+HH01275,Ayeyarwady,Hinthada,6,579787.0,Yes,691447,56095,2,Yes,No,No,Resident
+HH01276,Shan North,Lashio,4,621983.0,Y,634310,16451,1,Y,No,No,Resident
+HH01277,Shan North,Muse,5,358164.0,N,0,0,2,No,No,No,IDP
+HH01278,Ayeyarwady,Myaungmya,5,426152.0,Y,645186,26277,8,Y,No,No,IDP
+HH01279,Sagaing,Shwebo,3,474111.0,N,0,0,2,N,No,No,Resident
+HH01280,Mon,Mawlamyine,3,519698.0,Yes,511595,116638,2,Yes,No,No,Resident
+HH01281,Ayeyarwady,Pathein,2,396046.0,Yes,738967,8302,8,No,Yes,No,Resident
+HH01282,Ayeyarwady,Myaungmya,2,398385.0,No,0,0,4,Y,No,No,Resident
+HH01283,Kayah,Hpruso,5,668370.0,No,0,0,1,Yes,No,No,Resident
+HH01284,Bago,Taungoo,4,637714.0,Y,948021,74681,0,Yes,No,No,Resident
+HH01285,Kayah,Hpruso,3,,yes,460235,108600,2,Yes,No,No,Resident
+HH01286,Sagaing,Monywa,6,729440.0,N,0,0,4,Yes,No,No,Resident
+HH01287,Mon,Mawlamyine,6,350440.0,Yes,591478,22545,2,N,No,No,IDP
+HH01288,Chin,Hakha,5,712135.0,No,0,0,1,Yes,Yes,No,Resident
+HH01289,Magway,Pakokku,8,517653.0,Yes,1296733,74222,3,No,Yes,No,Resident
+HH01290,Shan South,Hopong,4,1008785.0,Y,621515,56770,3,Unknown,No,No,IDP
+HH01291,Chin,Matupi,7,205353.0,Yes,1062988,51380,2,Yes,Yes,No,IDP
+HH01292,Mon,Mawlamyine,2,295918.0,Y,109257,44460,8,No,No,No,Resident
+HH01293,Kayin,Kawkareik,6,495384.0,N,0,0,4,Yes,Yes,No,Returnee
+HH01294,Sagaing,Shwebo,9,491502.0,Y,1114371,112446,3,Yes,No,No,Resident
+HH01295,Tanintharyi,Dawei,7,771025.0,Yes,560745,136796,3,Yes,No,No,Resident
+HH01296,Rakhine,Kyaukphyu,5,299693.0,No,0,0,3,Yes,No,No,Resident
+HH01297,Chin,Matupi,5,582885.0,Y,911780,63003,2,Yes,No,No,Resident
+HH01298,Shan North,Muse,4,629243.0,Y,591932,89819,2,Yes,No,No,Resident
+HH01299,Rakhine,Kyaukphyu,6,546837.0,Yes,358840,75203,3,Yes,No,Yes,Resident
+HH01300,Sagaing,Shwebo,6,247021.0,yes,757980,5000,2,Yes,No,No,IDP
+HH01301,Ayeyarwady,Myaungmya,9,673397.0,Y,583738,61362,2,No,No,No,Resident
+HH01302,Kayah,Demoso,5,641278.0,No,0,0,0,Yes,Yes,No,Resident
+HH01303,Shan North,Laukkaing,2,527925.0,Yes,1009824,5000,3,Y,No,No,Resident
+HH01304,Mon,Mawlamyine,5,456783.0,No,0,0,3,N,No,No,Resident
+HH01305,Shan South,Taunggyi,2,460699.0,No,0,0,1,No,No,No,IDP
+HH01306,Shan North,Laukkaing,3,405828.0,Yes,516473,53321,1,No,No,Yes,Resident
+HH01307,Chin,Hakha,4,535341.0,Y,986025,73040,1,No,No,No,IDP
+HH01308,Chin,Hakha,6,425604.0,No,0,0,12,No,No,Yes,IDP
+HH01309,Kayah,Hpruso,3,267266.0,yes,1278633,104800,8,N,No,No,Resident
+HH01310,Bago,Bago,3,,no,0,0,2,Unknown,No,No,Resident
+HH01311,Rakhine,Mrauk-U,2,284633.0,Yes,506422,85785,1,Yes,No,Yes,Resident
+HH01312,Kachin,Myitkyina,7,459984.0,Yes,526076,113673,3,No,Yes,No,IDP
+HH01313,Ayeyarwady,Pathein,6,415148.0,N,0,0,2,Y,No,No,Resident
+HH01314,Bago,Taungoo,1,458762.0,no,0,0,12,Yes,Yes,No,Resident
+HH01315,Mon,Mawlamyine,1,510146.0,yes,183731,37934,0,No,No,No,Resident
+HH01316,Kachin,Myitkyina,5,307082.0,Yes,809491,130159,0,No,No,No,Resident
+HH01317,Shan North,Laukkaing,4,683819.0,Yes,20000,136851,2,No,No,No,Resident
+HH01318,Shan South,Hopong,5,371812.0,Yes,600953,5000,1,Yes,Yes,No,Resident
+HH01319,Kayin,Hpa-An,4,341983.0,yes,20000,6178,2,Yes,Yes,No,Resident
+HH01320,Kayah,Hpruso,8,,Y,643103,72035,4,Yes,Yes,No,Resident
+HH01321,Magway,Magway,4,89428.0,Y,871620,50273,0,No,No,No,IDP
+HH01322,Chin,Matupi,6,277704.0,Y,262186,56411,1,N,No,No,IDP
+HH01323,Rakhine,Sittwe,2,596593.0,Yes,661764,85385,3,N,No,No,Resident
+HH01324,Mon,Ye,8,107264.0,Y,373792,115565,4,Yes,No,No,IDP
+HH01325,Mon,Thaton,9,621163.0,Yes,432511,35863,2,Yes,No,No,IDP
+HH01326,Mandalay,Myingyan,6,692005.0,Y,460163,123368,1,Y,No,No,Resident
+HH01327,Shan North,Muse,5,353498.0,N,0,0,2,No,Yes,No,IDP
+HH01328,Magway,Minbu,3,472526.0,Y,603521,43747,2,Yes,No,No,IDP
+HH01329,Shan North,Muse,6,621436.0,No,0,0,4,Yes,No,No,Resident
+HH01330,Kachin,Myitkyina,6,335978.0,yes,974138,171424,2,Yes,No,No,Resident
+HH01331,Kayin,Kawkareik,3,576200.0,N,0,0,1,Y,Yes,No,Resident
+HH01332,Ayeyarwady,Myaungmya,4,299193.0,Yes,723389,130523,4,No,Yes,No,Resident
+HH01333,Kayah,Loikaw,5,334032.0,Yes,1012627,47746,2,Yes,No,No,Returnee
+HH01334,Bago,Pyay,7,276119.0,Y,659322,17285,0,N,No,No,Resident
+HH01335,Rakhine,Mrauk-U,6,481676 MMK,Yes,578270,46821,2,No,No,No,Resident
+HH01336,Tanintharyi,Myeik,5,628434.0,Yes,508990,41255,8,N,No,No,IDP
+HH01337,Shan South,Hopong,5,386860.0,Yes,549516,98950,3,Yes,No,No,Resident
+HH01338,Kachin,Putao,4,191175.0,Yes,608178,5000,1,Yes,Yes,No,Resident
+HH01339,Ayeyarwady,Pathein,4,225113.0,No,0,0,3,N,No,Yes,IDP
+HH01340,Kayah,Hpruso,2,491028.0,Y,388858,6627,1,Unknown,Yes,No,Resident
+HH01341,Rakhine,Mrauk-U,6,,Yes,735421,97649,2,Unknown,No,No,Resident
+HH01342,Magway,Minbu,4,490870.0,N,0,0,2,Y,No,Yes,Resident
+HH01343,Magway,Minbu,4,350359.0,Yes,739792,39567,1,Yes,No,No,IDP
+HH01344,Shan South,Pekon,3,557913.0,Yes,736399,53845,1,Yes,No,No,Resident
+HH01345,Mandalay,Kyaukse,3,376890.0,Yes,251621,108387,8,Yes,No,No,Resident
+HH01346,Tanintharyi,Myeik,5,351909.0,N,0,0,1,N,No,No,Resident
+HH01347,Bago,Taungoo,3,247477.0,no,0,0,4,Yes,No,No,IDP
+HH01348,Shan North,Muse,2,673521.0,No,0,0,3,No,No,No,Resident
+HH01349,Ayeyarwady,Pathein,6,50000.0,Yes,936310,117700,2,N,No,No,Resident
+HH01350,Southern Shan,Pekon,4,,Yes,437078,128071,0,Unknown,No,No,IDP
+HH01351,Sagaing,Monywa,4,336526.0,Yes,477246,104408,1,N,Yes,No,IDP
+HH01352,Kayah,Demoso,4,346139.0,yes,471181,64921,0,No,No,No,Resident
+HH01353,Kayin,Hpa-An,6,724617.0,Yes,20000,61414,2,Yes,No,No,Resident
+HH01354,Mon,Mawlamyine,4,291456.0,no,0,0,12,Unknown,Yes,No,Resident
+HH01355,Chin,Matupi,6,297588.0,Y,681881,56548,8,Yes,No,No,Resident
+HH01356,Kayin,Hpa-An,8,396529.0,Y,1264666,22689,0,Yes,No,No,Resident
+HH01357,Kachin,Bhamo,6,494493.0,yes,452747,34281,1,Unknown,Yes,No,IDP
+HH01358,Magway,Minbu,4,340466.0,Yes,452678,121414,0,No,Yes,No,Resident
+HH01359,Magway,Minbu,6,136705.0,N,0,0,12,No,No,No,IDP
+HH01360,Kayah,Demoso,4,264174.0,Yes,1167311,43464,1,Yes,No,No,Resident
+HH01361,Magway,Pakokku,4,650640.0,yes,396947,22929,1,Yes,No,No,IDP
+HH01362,Sagaing,Kalay,5,433460.0,Y,1107200,125445,2,N,Yes,No,Resident
+HH01363,Kachin,Putao,4,501196.0,Yes,612906,12176,2,No,No,No,Resident
+HH01364,Mandalay,Kyaukse,2,,yes,192668,82678,1,Yes,Yes,No,Resident
+HH01365,Rakhine,Sittwe,4,301290.0,Yes,842268,5000,3,No,No,No,Resident
+HH01366,Sagaing,Monywa,3,721963.0,Yes,537542,147823,0,N,Yes,No,Resident
+HH01367,Kachin,Myitkyina,4,386125.0,N,0,0,0,N,Yes,Yes,Resident
+HH01368,Kayin,Hpa-An,5,340193.0,No,0,0,0,Yes,Yes,No,IDP
+HH01369,Tanintharyi,Kawthaung,8,617306.0,yes,573872,142034,1,No,No,No,Resident
+HH01370,Shan South,Taunggyi,1,289975.0,Y,877166,26207,12,Yes,No,No,Resident
+HH01371,Mon,Mawlamyine,5,312949.0,Y,547565,69209,2,Yes,No,No,Resident
+HH01372,Kachin,Putao,4,421844.0,Yes,316621,31356,4,Yes,No,No,IDP
+HH01373,Kayin,Kawkareik,1,420049.0,Yes,1177369,31019,1,No,No,No,Resident
+HH01374,Kayah,Loikaw,3,466730.0,no,0,0,3,No,No,No,Resident
+HH01375,Mon,Thaton,2,796500.0,Yes,1027453,55358,12,Yes,No,No,Resident
+HH01376,Tanintharyi,Myeik,3,480525.0,Y,641026,100283,1,Yes,No,No,Resident
+HH01377,Tanintharyi,Myeik,4,50000.0,Yes,440504,100556,12,Yes,Yes,No,Resident
+HH01378,Ayeyarwady,Myaungmya,4,478734.0,Yes,20000,94787,3,Yes,No,No,Resident
+HH01379,Rakhine,Kyaukphyu,5,426818.0,Y,20000,64792,3,No,No,No,Resident
+HH01380,Rakhine,Kyaukphyu,1,427821.0,N,0,0,1,Yes,No,No,IDP
+HH01381,Tanintharyi,Dawei,3,464271.0,N,0,0,3,Yes,Yes,Yes,Resident
+HH01382,Chin,Hakha,2,414838.0,yes,948985,103003,2,Unknown,No,No,Resident
+HH01383,Kachin,Bhamo,5,,Yes,195556,22365,12,Yes,No,No,Resident
+HH01384,Mon,Mawlamyine,4,530348.0,No,0,0,8,N,Yes,No,IDP
+HH01385,Kayah,Demoso,5,322425.0,Yes,408965,83380,1,No,Yes,No,Resident
+HH01386,Chin,Hakha,3,249416.0,N,0,0,8,No,No,Yes,Resident
+HH01387,Rakhine,Kyaukphyu,1,964281.0,Yes,20000,74405,8,No,No,No,IDP
+HH01388,Kachin,Myitkyina,8,291146.0,Y,759000,62263,2,Yes,No,No,Resident
+HH01389,Mon,Mawlamyine,2,438026.0,Yes,833862,85068,0,Y,No,No,Resident
+HH01390,Mon,Mawlamyine,3,150781.0,yes,460421,5000,0,Y,No,No,Resident
+HH01391,Kachin,Myitkyina,3,440964.0,yes,696695,32112,0,Yes,No,No,Resident
+HH01392,Rakhine,Mrauk-U,9,252019.0,yes,447580,96561,0,No,No,No,Resident
+HH01393,Tanintharyi,Myeik,5,340355.0,Yes,1146067,73287,12,No,Yes,No,Resident
+HH01394,Ayeyarwady,Myaungmya,5,608112.0,no,0,0,1,N,Yes,No,Resident
+HH01395,Chin,Hakha,9,504962.0,Yes,843923,9998,3,Y,No,No,Resident
+HH01396,Shan South,Pekon,2,522314.0,Yes,735933,72304,3,Yes,Yes,No,Returnee
+HH01397,Shan South,Pekon,9,101183.0,Yes,1080230,50679,3,N,No,No,Resident
+HH01398,Shan North,Muse,3,,Yes,565427,122647,1,Unknown,No,No,Returnee
+HH01399,Sagaing,Kalay,5,205461.0,Y,617788,25102,2,No,No,Yes,Resident
+HH01400,Kachin,Myitkyina,4,695141.0,Yes,1543072,26463,2,Yes,Yes,No,IDP
+HH01401,Bago,Pyay,4,603878.0,No,0,0,2,Y,No,No,IDP
+HH01402,Chin,Matupi,8,523920.0,Y,627355,90601,0,No,No,No,Resident
+HH01403,Kachin,Putao,3,266103.0,yes,743666,66462,3,Yes,No,No,Resident
+HH01404,Kachin,Bhamo,9,447286.0,Y,585334,64428,0,N,No,No,Resident
+HH01405,Mandalay,Kyaukse,4,335234.0,Y,259423,171760,2,No,Yes,No,Resident
+HH01406,Mandalay,Myingyan,5,425227.0,Yes,573003,101862,1,Y,Yes,No,Resident
+HH01407,Kachin,Bhamo,8,375023.0,yes,532871,59036,1,No,No,No,Returnee
+HH01408,Mon,Ye,2,53050.0,Yes,490595,5257,4,Yes,No,No,Resident
+HH01409,Sagaing,Monywa,8,621921.0,Yes,593783,56685,0,Unknown,No,No,Resident
+HH01410,Chin,Tedim,5,405401.0,Yes,1060034,21148,8,No,No,No,Resident
+HH01411,Sagaing,Monywa,6,332736.0,Y,447998,34570,8,Yes,No,No,Resident
+HH01412,Rakhine,Sittwe,3,319141.0,No,0,0,1,Yes,No,No,Resident
+HH01413,Chin,Tedim,5,484523.0,Y,1154886,35877,1,Yes,Yes,No,Resident
+HH01414,Bago,Bago,6,259124.0,No,0,0,0,No,Yes,No,IDP
+HH01415,Shan South,Pekon,4,50000.0,No,0,0,8,Yes,No,No,Resident
+HH01416,Ayeyarwady,Hinthada,3,493283.0,No,0,0,2,N,No,No,Resident
+HH01417,Shan South,Pekon,3,513439.0,Yes,846805,118657,0,Unknown,No,No,Resident
+HH01418,Kayin,Kawkareik,7,384066.0,No,0,0,2,No,Yes,No,Resident
+HH01419,Mon,Ye,1,213377.0,Y,598857,13044,0,Yes,No,No,Resident
+HH01420,Kayin,Myawaddy,6,436008.0,Y,172546,113689,2,No,Yes,No,Resident
+HH01421,Tanintharyi,Dawei,9,156384.0,Yes,208792,92641,2,Yes,No,No,Resident
+HH01422,Tanintharyi,Kawthaung,1,235098.0,Y,690022,91971,0,Y,Yes,No,IDP
+HH01423,Shan South,Taunggyi,3,284874.0,Yes,815055,32985,4,Yes,No,No,Resident
+HH01424,Shan North,Muse,6,571909.0,Yes,308565,107172,1,N,Yes,No,Resident
+HH01425,Chin,Tedim,2,354730.0,Yes,429729,5000,2,Yes,Yes,No,Returnee
+HH01426,Bago,Bago,5,339384.0,No,0,0,3,Yes,No,No,IDP
+HH01427,Shan North,Muse,6,771845.0,Yes,877064,28368,12,Unknown,No,No,Resident
+HH01428,Mon,Mawlamyine,5,483443.0,Y,813498,137677,2,No,No,No,IDP
+HH01429,Chin,Hakha,4,481019.0,Yes,655867,119809,8,Y,No,No,IDP
+HH01430,Bago,Pyay,6,353454.0,N,0,0,1,N,No,No,Resident
+HH01431,Kayin,Hpa-An,5,312653.0,Yes,703829,146434,8,Yes,No,No,Resident
+HH01432,Mandalay,Myingyan,3,50000.0,Y,278263,74630,1,Yes,No,No,Resident
+HH01433,Mandalay,Mandalay,5,594373.0,N,0,0,3,No,No,No,Resident
+HH01434,Rakhine,Mrauk-U,7,500696.0,No,0,0,0,Y,No,No,IDP
+HH01435,Kachin,Putao,6,387750.0,Yes,885607,66431,12,Unknown,No,No,Resident
+HH01436,Magway,Pakokku,5,395299.0,Y,1053277,55558,12,Yes,No,No,Resident
+HH01437,Kayah,Hpruso,4,552506.0,no,0,0,1,No,Yes,No,Resident
+HH01438,Shan North,Laukkaing,2,140152.0,no,0,0,2,Yes,No,No,Resident
+HH01439,Kachin,Putao,3,313821.0,Yes,1374280,170499,2,No,No,No,IDP
+HH01440,Tanintharyi,Dawei,1,215465.0,N,0,0,1,Y,No,No,Resident
+HH01441,Ayeyarwady,Myaungmya,9,738872.0,No,0,0,3,N,No,No,Resident
+HH01442,Rakhine,Kyaukphyu,3,577618.0,Yes,748725,99867,3,Yes,Yes,No,Resident
+HH01443,Tanintharyi,Kawthaung,6,50000 MMK,Y,1067085,21576,2,Yes,Yes,No,IDP
+HH01444,Kayin,Hpa-An,3,147523.0,Y,190800,131539,0,Yes,No,Yes,Resident
+HH01445,Magway,Minbu,4,396178.0,Y,745896,64807,8,Yes,No,No,Resident
+HH01446,Sagaing,Monywa,4,334961.0,yes,653893,5000,0,Yes,No,No,Resident
+HH01447,Tanintharyi,Myeik,4,181611.0,No,0,0,2,N,No,No,Resident
+HH01448,Tanintharyi,Myeik,6,770057.0,Y,583303,41113,0,Yes,No,No,Resident
+HH01449,Ayeyarwady,Hinthada,8,476257.0,No,0,0,0,Yes,No,No,Resident
+HH01450,Magway,Magway,7,505467.0,Yes,971325,119776,0,No,No,Yes,Resident
+HH01451,Kachin,Myitkyina,3,295437.0,No,0,0,1,Yes,Yes,No,IDP
+HH01452,Sagaing,Shwebo,6,550009.0,no,0,0,3,Yes,No,No,Resident
+HH01453,Sagaing,Kalay,3,351522.0,No,0,0,2,N,No,Yes,Resident
+HH01454,Chin,Tedim,7,368998.0,Yes,851838,92796,3,Yes,No,Yes,Returnee
+HH01455,Shan South,Taunggyi,5,529980.0,Y,125929,101579,3,Yes,No,No,Resident
+HH01456,Sagaing,Kalay,4,126780.0,no,0,0,0,No,No,No,IDP
+HH01457,Tanintharyi,Dawei,3,707465.0,yes,870289,131034,0,Yes,No,No,Resident
+HH01458,Kayin,Myawaddy,1,452830.0,Y,1391373,5000,2,Yes,No,No,IDP
+HH01459,Chin,Tedim,3,650570.0,No,0,0,3,Yes,No,No,Resident
+HH01460,Rakhine,Mrauk-U,7,226424.0,Y,514033,41598,2,Yes,Yes,No,IDP
+HH01461,Bago,Taungoo,6,,yes,710378,75603,1,N,No,No,IDP
+HH01462,Kachin,Bhamo,8,210858.0,yes,568071,121242,4,Yes,No,No,Resident
+HH01463,Sagaing,Kalay,2,465054.0,yes,264505,28150,0,Yes,No,No,Resident
+HH01464,Sagaing,Monywa,5,431877.0,No,0,0,3,Yes,No,No,Resident
+HH01465,Bago,Taungoo,3,336406.0,Yes,291521,58785,0,Unknown,No,No,Resident
+HH01466,Magway,Magway,5,237468.0,Y,219993,72814,3,Yes,No,No,Returnee
+HH01467,Shan South,Taunggyi,4,192013.0,Yes,592078,39607,1,N,No,No,Resident
+HH01468,Kayah,Loikaw,4,411273.0,Yes,955818,72322,3,Yes,No,No,IDP
+HH01469,Ayeyarwady,Myaungmya,5,336194.0,No,0,0,0,Unknown,No,No,Resident
+HH01470,Sagaing,Shwebo,3,296591.0,Y,1021927,66223,2,Yes,No,No,Resident
+HH01471,Mon,Thaton,5,698476.0,yes,641532,49675,0,Yes,No,No,Returnee
+HH01472,Shan North,Lashio,5,405181.0,N,0,0,3,No,No,No,Resident
+HH01473,Kayin,Myawaddy,3,648608.0,yes,647534,107050,0,Yes,No,No,Resident
+HH01474,Mandalay,Myingyan,8,324015.0,N,0,0,0,No,No,No,Resident
+HH01475,Tanintharyi,Dawei,5,464060.0,N,0,0,3,No,Yes,No,Resident
+HH01476,Kachin,Bhamo,6,410014.0,Yes,506033,98329,0,No,Yes,Yes,Resident
+HH01477,Kayin,Myawaddy,5,114428.0,Y,365539,109157,1,Yes,No,No,Resident
+HH01478,Kayah,Hpruso,6,677101.0,Yes,447033,113326,4,No,No,No,Resident
+HH01479,Chin,Hakha,6,,Yes,671342,143443,4,Yes,No,No,IDP
+HH01480,Kayah,Demoso,7,554355.0,Yes,246076,8572,8,Unknown,No,No,Resident
+HH01481,Mandalay,Myingyan,5,284635.0,yes,434324,12693,1,No,Yes,Yes,Resident
+HH01482,Sagaing,Monywa,4,390328.0,N,0,0,2,No,No,Yes,Resident
+HH01483,Kachin,Putao,2,263967.0,no,0,0,4,Y,No,No,Resident
+HH01484,Magway,Minbu,5,642480.0,no,0,0,0,No,No,No,IDP
+HH01485,Kayah,Hpruso,2,476054.0,yes,166043,102970,3,No,No,No,Resident
+HH01486,Mon,Thaton,3,486070.0,Yes,648537,53414,0,Yes,No,No,Resident
+HH01487,Mandalay,Myingyan,2,664473.0,yes,514563,48124,8,No,No,No,Resident
+HH01488,Sagaing,Kalay,5,628141.0,yes,1227629,41902,3,Yes,No,No,Resident
+HH01489,Magway,Minbu,3,557762.0,yes,187253,110822,2,Yes,No,Yes,Resident
+HH01490,Rakhine,Mrauk-U,5,164089.0,Yes,574486,166745,2,Y,No,No,Resident
+HH01491,Chin,Tedim,6,294778.0,Yes,465828,113069,0,Yes,No,No,Resident
+HH01492,Kayin,Myawaddy,7,239300.0,no,0,0,1,No,No,No,Resident
+HH01493,Sagaing,Monywa,4,550956.0,Yes,1028769,51540,3,Yes,No,No,Resident
+HH01494,Kachin,Putao,5,450717.0,No,0,0,2,Yes,No,No,Resident
+HH01495,Kayah,Hpruso,5,169708.0,No,0,0,2,Y,No,Yes,Resident
+HH01496,Kayin,Myawaddy,5,386026.0,Yes,389978,108361,0,Yes,No,No,Resident
+HH01497,Rakhine,Sittwe,5,151060.0,Yes,851212,11523,3,No,No,No,Resident
+HH01498,Ayeyarwady,Hinthada,3,410432.0,no,0,0,1,No,Yes,No,Resident
+HH01499,Kayin,Myawaddy,9,122033.0,yes,255048,5000,0,Y,Yes,No,Resident
+HH01500,Bago,Pyay,2,515189.0,yes,858385,63218,8,Yes,No,No,Resident
