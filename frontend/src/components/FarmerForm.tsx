@@ -33,18 +33,18 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
   const displacementStatuses = metadata?.displacement_statuses || ['IDP', 'Resident', 'Returnee'];
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-5 sm:space-y-6">
       {/* Grid of form cards */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-5">
         
         {/* CARD 1: Location & Demographics */}
-        <div className="bg-slate-900/60 border border-slate-800 rounded-xl p-5 shadow-sm space-y-4">
+        <div className="bg-slate-900/60 border border-slate-800 rounded-xl p-4 sm:p-5 shadow-sm space-y-3.5">
           <div className="flex items-center gap-2 pb-2 border-b border-slate-800 text-white font-semibold text-sm">
             <Home className="w-4 h-4 text-emerald-400" />
             <h3>1. Location & Demographics</h3>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 text-xs">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
             <div>
               <label className="block text-slate-400 mb-1 font-medium">State / Region</label>
               <select
@@ -72,7 +72,7 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
             </div>
           </div>
 
-          <div className="grid grid-cols-3 gap-3 text-xs">
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 text-xs">
             <div>
               <label className="block text-slate-400 mb-1 font-medium">Family Size</label>
               <input
@@ -92,13 +92,13 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
                 onChange={(e) => handleChange('female_headed_household', parseInt(e.target.value))}
                 className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-white focus:outline-none focus:border-emerald-500 text-xs"
               >
-                <option value={0}>No</option>
-                <option value={1}>Yes</option>
+                <option value={0}>No (Male Head)</option>
+                <option value={1}>Yes (Female Head)</option>
               </select>
             </div>
 
             <div>
-              <label className="block text-slate-400 mb-1 font-medium">Disability?</label>
+              <label className="block text-slate-400 mb-1 font-medium">Disability in Family?</label>
               <select
                 value={profile.disability_present}
                 onChange={(e) => handleChange('disability_present', parseInt(e.target.value))}
@@ -112,13 +112,13 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
         </div>
 
         {/* CARD 2: Financial Health */}
-        <div className="bg-slate-900/60 border border-slate-800 rounded-xl p-5 shadow-sm space-y-4">
+        <div className="bg-slate-900/60 border border-slate-800 rounded-xl p-4 sm:p-5 shadow-sm space-y-3.5">
           <div className="flex items-center gap-2 pb-2 border-b border-slate-800 text-white font-semibold text-sm">
             <DollarSign className="w-4 h-4 text-emerald-400" />
             <h3>2. Financial Health (MMK)</h3>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 text-xs">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
             <div>
               <label className="block text-slate-400 mb-1 font-medium">Monthly Income</label>
               <input
@@ -149,7 +149,7 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
             </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 text-xs">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
             <div>
               <label className="block text-slate-400 mb-1 font-medium">Monthly Debt Repayment</label>
               <input
@@ -176,13 +176,13 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
         </div>
 
         {/* CARD 3: Agriculture & Yield */}
-        <div className="bg-slate-900/60 border border-slate-800 rounded-xl p-5 shadow-sm space-y-4">
+        <div className="bg-slate-900/60 border border-slate-800 rounded-xl p-4 sm:p-5 shadow-sm space-y-3.5">
           <div className="flex items-center gap-2 pb-2 border-b border-slate-800 text-white font-semibold text-sm">
             <Sprout className="w-4 h-4 text-emerald-400" />
             <h3>3. Agriculture & Production</h3>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 text-xs">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
             <div>
               <label className="block text-slate-400 mb-1 font-medium">Primary Crop</label>
               <select
@@ -208,7 +208,7 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
             </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 text-xs">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
             <div>
               <label className="block text-slate-400 mb-1 font-medium">Fertilizer Cost (MMK)</label>
               <input
@@ -233,31 +233,31 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
             </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 pt-1">
-            <label className="flex items-center gap-2 text-xs text-slate-300 cursor-pointer">
+          <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 pt-1">
+            <label className="flex items-center gap-2 text-xs text-slate-300 cursor-pointer bg-slate-950/40 p-2 rounded-lg border border-slate-800">
               <input
                 type="checkbox"
                 checked={profile.crop_damage_recent === 1}
                 onChange={(e) => handleChange('crop_damage_recent', e.target.checked ? 1 : 0)}
                 className="rounded bg-slate-950 border-slate-700 text-emerald-500 focus:ring-0"
               />
-              <span className="font-medium text-rose-300">Recent Crop Inundation / Damage?</span>
+              <span className="font-medium text-rose-300 text-[11px] sm:text-xs">Recent Crop Damage / Flooding?</span>
             </label>
 
-            <label className="flex items-center gap-2 text-xs text-slate-300 cursor-pointer">
+            <label className="flex items-center gap-2 text-xs text-slate-300 cursor-pointer bg-slate-950/40 p-2 rounded-lg border border-slate-800">
               <input
                 type="checkbox"
                 checked={profile.market_access === 1}
                 onChange={(e) => handleChange('market_access', e.target.checked ? 1 : 0)}
                 className="rounded bg-slate-950 border-slate-700 text-emerald-500 focus:ring-0"
               />
-              <span className="font-medium">Market Access Functional?</span>
+              <span className="font-medium text-[11px] sm:text-xs">Functional Market Access?</span>
             </label>
           </div>
         </div>
 
         {/* CARD 4: Coping Capacity & Food Security */}
-        <div className="bg-slate-900/60 border border-slate-800 rounded-xl p-5 shadow-sm space-y-4">
+        <div className="bg-slate-900/60 border border-slate-800 rounded-xl p-4 sm:p-5 shadow-sm space-y-3.5">
           <div className="flex items-center gap-2 pb-2 border-b border-slate-800 text-white font-semibold text-sm">
             <HeartPulse className="w-4 h-4 text-emerald-400" />
             <h3>4. Stress & Coping Index</h3>
@@ -278,12 +278,12 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
                 step="1"
                 value={profile.rCSI_score}
                 onChange={(e) => handleChange('rCSI_score', parseFloat(e.target.value))}
-                className="w-full accent-emerald-500 h-1.5 bg-slate-800 rounded-lg cursor-pointer"
+                className="w-full accent-emerald-500 h-2 bg-slate-800 rounded-lg cursor-pointer"
               />
               <div className="flex justify-between text-[10px] text-slate-500 mt-0.5">
                 <span>0 (No stress)</span>
-                <span>20 (Moderate stress)</span>
-                <span>50 (Severe stress)</span>
+                <span>20 (Moderate)</span>
+                <span>50 (Severe)</span>
               </div>
             </div>
 
@@ -301,7 +301,7 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
                 step="1"
                 value={profile.basic_needs_score}
                 onChange={(e) => handleChange('basic_needs_score', parseFloat(e.target.value))}
-                className="w-full accent-emerald-500 h-1.5 bg-slate-800 rounded-lg cursor-pointer"
+                className="w-full accent-emerald-500 h-2 bg-slate-800 rounded-lg cursor-pointer"
               />
               <div className="flex justify-between text-[10px] text-slate-500 mt-0.5">
                 <span>0 (Unable to meet needs)</span>
@@ -314,11 +314,11 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
       </div>
 
       {/* Trigger Predict Button */}
-      <div className="flex justify-end">
+      <div className="flex justify-end pt-1">
         <button
           onClick={onSubmit}
           disabled={isLoading}
-          className="flex items-center gap-2 px-6 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-semibold text-sm shadow-lg shadow-emerald-900/30 transition disabled:opacity-50"
+          className="w-full sm:w-auto flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-emerald-600 hover:bg-emerald-500 text-white font-semibold text-sm shadow-lg shadow-emerald-900/30 transition active:scale-[0.99] disabled:opacity-50"
         >
           <Sliders className="w-4 h-4" />
           {isLoading ? 'Running ML Inference...' : 'Evaluate Household Vulnerability'}
@@ -327,4 +327,3 @@ export const FarmerForm: React.FC<FarmerFormProps> = ({
     </div>
   );
 };
-

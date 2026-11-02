@@ -50,25 +50,25 @@ export const RiskGaugeCard: React.FC<RiskGaugeCardProps> = ({
   const StatusIcon = isHigh ? AlertCircle : isMedium ? AlertTriangle : CheckCircle2;
 
   return (
-    <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-6 backdrop-blur shadow-sm space-y-6">
+    <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-4 sm:p-6 backdrop-blur shadow-sm space-y-5 sm:space-y-6">
       
       {/* Header */}
       <div className="flex items-center justify-between pb-3 border-b border-slate-800">
         <div>
-          <h2 className="text-base font-semibold text-white tracking-tight">Financial Vulnerability Assessment</h2>
-          <p className="text-xs text-slate-400">Powered by {model_used}</p>
+          <h2 className="text-sm sm:text-base font-semibold text-white tracking-tight">Financial Vulnerability Assessment</h2>
+          <p className="text-[11px] sm:text-xs text-slate-400">Powered by {model_used}</p>
         </div>
-        <span className={`text-xs font-semibold px-3 py-1 rounded-full border ${riskBg} ${riskColor}`}>
+        <span className={`text-[11px] sm:text-xs font-semibold px-2.5 sm:px-3 py-1 rounded-full border ${riskBg} ${riskColor}`}>
           {risk_level}
         </span>
       </div>
 
       {/* Visual Radial Dial / Progress */}
-      <div className="flex flex-col sm:flex-row items-center gap-6 justify-around bg-slate-950/60 rounded-xl p-5 border border-slate-800/80">
+      <div className="flex flex-col sm:flex-row items-center gap-5 sm:gap-6 justify-around bg-slate-950/60 rounded-xl p-4 sm:p-5 border border-slate-800/80">
         
         {/* Gauge display */}
         <div className="flex flex-col items-center">
-          <div className="relative w-36 h-36 flex items-center justify-center">
+          <div className="relative w-32 h-32 sm:w-36 sm:h-36 flex items-center justify-center">
             {/* Background Circle */}
             <svg className="w-full h-full transform -rotate-90" viewBox="0 0 100 100">
               <circle

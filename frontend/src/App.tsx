@@ -174,16 +174,16 @@ export function App() {
           onResetCustom={handleResetCustom}
         />
 
-        {/* 2. Main Two-Column Layout: Form (Left) & Results (Right) */}
-        <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
+        {/* 2. Main Two-Column Layout: Form (Left on desktop) & Results (Right on desktop, Top on mobile) */}
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-6 sm:gap-8 items-start">
           
-          {/* Left Column: Editable Form */}
-          <div className="lg:col-span-7 space-y-6">
+          {/* Form Column: Appears 2nd on mobile, Left on desktop */}
+          <div className="order-2 lg:order-1 lg:col-span-7 space-y-6">
             <div className="flex items-center justify-between pb-2 border-b border-slate-800">
-              <h2 className="text-base font-semibold text-white tracking-tight">
+              <h2 className="text-sm sm:text-base font-semibold text-white tracking-tight">
                 Household Characteristics & Inputs
               </h2>
-              <span className="text-xs text-slate-400">
+              <span className="text-[11px] sm:text-xs text-slate-400">
                 Preset + Custom Overrides
               </span>
             </div>
@@ -197,8 +197,8 @@ export function App() {
             />
           </div>
 
-          {/* Right Column: Visual Assessment & Decision Support */}
-          <div className="lg:col-span-5 space-y-6 lg:sticky lg:top-24">
+          {/* Results Column: Appears 1st on mobile, Right on desktop */}
+          <div className="order-1 lg:order-2 lg:col-span-5 space-y-6 lg:sticky lg:top-24">
             {error && (
               <div className="p-4 rounded-xl bg-rose-950/60 border border-rose-800/80 text-rose-300 text-xs">
                 {error}

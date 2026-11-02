@@ -16,26 +16,26 @@ export const PersonaSelector: React.FC<PersonaSelectorProps> = ({
   onResetCustom,
 }) => {
   return (
-    <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-6 backdrop-blur shadow-sm">
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-5">
+    <div className="bg-slate-900/60 border border-slate-800 rounded-2xl p-4 sm:p-6 backdrop-blur shadow-sm">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4 sm:mb-5">
         <div>
           <div className="flex items-center gap-2">
             <Sparkles className="w-4 h-4 text-emerald-400" />
-            <h2 className="text-base font-semibold text-white tracking-tight">
+            <h2 className="text-sm sm:text-base font-semibold text-white tracking-tight">
               One-Click Farmer Case Studies
             </h2>
-            <span className="text-xs bg-slate-800 text-slate-300 px-2 py-0.5 rounded-full border border-slate-700">
+            <span className="text-[10px] sm:text-xs bg-slate-800 text-slate-300 px-2 py-0.5 rounded-full border border-slate-700">
               Demo Presets
             </span>
           </div>
           <p className="text-xs text-slate-400 mt-1">
-            Click any scenario to instantly populate realistic regional household data, or edit any value below freely.
+            Tap any scenario below to instantly populate realistic regional household data.
           </p>
         </div>
 
         <button
           onClick={onResetCustom}
-          className={`flex items-center gap-1.5 text-xs px-3 py-1.5 rounded-lg border transition font-medium self-start sm:self-auto ${
+          className={`flex items-center justify-center gap-1.5 text-xs px-3 py-2 rounded-xl border transition font-medium w-full sm:w-auto ${
             selectedPersonaId === null
               ? 'bg-emerald-600/20 text-emerald-300 border-emerald-500/40'
               : 'bg-slate-800 text-slate-300 border-slate-700 hover:bg-slate-700'
@@ -46,7 +46,7 @@ export const PersonaSelector: React.FC<PersonaSelectorProps> = ({
         </button>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-3.5 sm:gap-4">
         {personas.map((persona) => {
           const isSelected = selectedPersonaId === persona.id;
 
@@ -66,7 +66,7 @@ export const PersonaSelector: React.FC<PersonaSelectorProps> = ({
             <div
               key={persona.id}
               onClick={() => onSelectPersona(persona)}
-              className={`cursor-pointer rounded-xl p-4 border transition-all text-left flex flex-col justify-between ${
+              className={`cursor-pointer rounded-xl p-4 border transition-all text-left flex flex-col justify-between active:scale-[0.99] ${
                 isSelected
                   ? 'bg-slate-800/90 border-emerald-500 shadow-md ring-2 ring-emerald-500/20'
                   : 'bg-slate-950/60 border-slate-800/80 hover:border-slate-700 hover:bg-slate-900/40'
@@ -92,7 +92,7 @@ export const PersonaSelector: React.FC<PersonaSelectorProps> = ({
 
               <div className="pt-2 border-t border-slate-800/80 mt-auto">
                 <p className="text-[11px] text-slate-300 font-medium flex items-center gap-1">
-                  <span className="text-slate-500">Expected:</span>
+                  <span className="text-slate-500">Outcome:</span>
                   <span className="truncate">{persona.expected_outcome.split('.')[0]}</span>
                 </p>
               </div>
@@ -103,4 +103,3 @@ export const PersonaSelector: React.FC<PersonaSelectorProps> = ({
     </div>
   );
 };
-
