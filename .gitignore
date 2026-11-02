@@ -25,3 +25,14 @@ __pycache__/
 # Model artifacts - we can decide later if we want to commit them
 models/*.pkl
 models/*.joblib
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+*.tsbuildinfo
+
+# Local working notes
+explanation approach.md

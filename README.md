@@ -7,71 +7,28 @@ Rather than serving as an automated loan approval or rejection system, it acts a
 
 ---
 
-## 🏛️ Project Architecture & Mental Model
+## 🏛️ System Architecture & Decoupled Monorepo
 
-The repository is structured around a clear separation of concerns, following standard **CRISP-DM** (Cross-Industry Standard Process for Data Mining) and modern Machine Learning engineering principles:
-
-```text
-[1. Experimentation]        [2. Production Pipeline]         [3. Artifacts]           [4. User Interface]
-     /notebooks       ===>            /src            ===>    /data & /models   ===>         /app
-(Explore & Prototype)        (ETL & Training Scripts)        (ABT & .joblib)          (Streamlit Dashboard)
-                                      ||
-                                      \/
-                                   /reports
-                            (Findings & Metrics)
-```
-
-| Directory | Layer / Mental Model Role | Description |
-| :--- | :--- | :--- |
-| **`/app`** | **Front End** | Multi-page Streamlit web application providing an intuitive UI for risk assessment, model explanations, market price feasibility, and SDG impact metrics. |
-| **`/data`** | **Data Tier (Backend Storage)** | Houses raw tables (`raw/`), the feature-engineered Analytical Base Table (`processed/farmer_vulnerability_abt.csv`), and reference documentation (`reference/`). |
-| **`/models`** | **Model Store (ML Backend)** | Stores trained, serialized machine learning model artifacts (`.joblib`), serving as the project's inference engine. |
-| **`/notebooks`** | **Experimentation Lab** | CRISP-DM research notebooks (01 through 06) used for exploratory data analysis, hypothesis testing, feature experimentation, and prototyping. |
-| **`/reports`** | **Findings & Deliverables** | Business and data understanding documentation, evaluation summaries, and quantitative benchmark reports for stakeholders. |
-| **`/src`** | **Data & ML Pipelines** | Modular, reproducible Python scripts transforming experimental notebook code into production-grade pipelines (data generation, ABT preparation, training, evaluation, and UI helper functions). |
-
----
-
-## 📁 Repository Structure
+The project is architected as a **decoupled full-stack machine learning system**, featuring a high-performance **FastAPI inference microservice** and a modern **React + Vite + Tailwind CSS** frontend:
 
 ```text
-agricredit-resilience/
-├── app/                           # Multi-page Streamlit Dashboard (Frontend)
-│   ├── Home.py                    # Landing page & executive summary
-│   └── pages/
-│       ├── 1_Risk_Prediction.py   # Interactive farmer vulnerability assessment
-│       ├── 2_Model_Explanation.py # Feature contributions & interpretable drivers
-│       ├── 3_Market_Feasibility.py# Local food prices & Minimum Expenditure Basket (MEB)
-│       ├── 4_Model_Evaluation.py  # Confusion matrix, ROC-AUC, and precision-recall curves
-│       └── 5_SDG_Impact.py        # Alignment with UN Sustainable Development Goals
-├── data/                          # Data Storage Layer
-│   ├── raw/                       # Raw simulated data (households, agriculture, coping, etc.)
-│   ├── processed/                 # Analytical Base Table (farmer_vulnerability_abt.csv)
-│   └── reference/                 # Business & data dictionaries
-├── models/                        # Serialized ML Models
-│   ├── logistic_regression_model.joblib  # Primary probability-based model
-│   └── decision_tree_model.joblib        # Transparent rule-based support model
-├── notebooks/                     # CRISP-DM Sequential Experimentation
-│   ├── 01_generate_raw_tables.ipynb
-│   ├── 02_data_understanding.ipynb
-│   ├── 03_data_preparation_abt.ipynb
-│   ├── 04_modeling_decision_tree.ipynb
-│   ├── 05_modeling_logistic_regression.ipynb
-│   └── 06_evaluation.ipynb
-├── reports/                       # Project Findings & Stakeholder Reports
-│   ├── business_understanding.md
-│   ├── data_understanding_preparation.md
-│   └── model_comparison_summary.csv
-├── src/                           # Production Pipelines
-│   ├── config.py                  # Global configurations, seed, and file paths
-│   ├── generate_raw_data.py       # Raw synthetic data generator
-│   ├── prepare_abt.py             # Feature engineering & ABT builder
-│   ├── train_models.py            # Model training & serialization pipeline
-│   ├── evaluate_models.py         # Evaluation and metrics benchmarking
-│   └── app_utils.py               # Helper routines for the Streamlit UI
-├── requirements.txt               # Project dependencies
-└── README.md                      # Project documentation & architecture overview
+[ Modern Frontend ]                HTTP / JSON                [ FastAPI Backend ]               Disk / RAM
+ (React + Vite + TS)    <=============================>    (Python REST Microservice)   <===>   (joblib models)
+- Sleek interactive UI   POST /api/v1/predict               - Pydantic validation                - Logistic Regression
+- Persona selector       GET  /api/v1/personas              - Feature transformation             - Decision Tree
+- Real-time risk dial    POST /api/v1/simulate              - Inference execution
+- What-If simulator      GET  /docs (Swagger UI)            - Lifespan model cache
 ```
+
+| Layer | Directory | Tech Stack | Role |
+| :--- | :--- | :--- | :--- |
+| **Frontend UI** | **`/frontend`** | React 18, Vite, TypeScript, Tailwind CSS, Lucide | Modern web client featuring one-click case studies, radial risk gauge, and "What-If" policy simulator. |
+| **Inference API** | **`/src/api`** | FastAPI, Pydantic, Uvicorn | Production REST microservice serving scikit-learn models with automatic OpenAPI/Swagger docs (`/docs`). |
+| **Model Registry** | **`/models`** | scikit-learn, joblib | Serialized ML models (Logistic Regression for probability scoring, Decision Tree for explainability). |
+| **Data Tier** | **`/data`** | Pandas, CSV | Raw household tables (`raw/`), Analytical Base Table (`processed/`), and regional reference benchmarks (`reference/`). |
+| **Experimentation** | **`/notebooks`** | Jupyter Notebooks | Step-by-step CRISP-DM research from synthetic generation to EDA, feature engineering, and model tuning. |
+| **Pipelines** | **`/src`** | Python | Modular ETL and training pipelines (`generate_raw_data.py`, `prepare_abt.py`, `train_models.py`, `evaluate_models.py`). |
+| **Legacy UI** | **`/app`** | Streamlit, Plotly | Multi-page Streamlit exploratory dashboard. |
 
 ---
 
@@ -92,6 +49,7 @@ The system evaluates two complementary models:
 
 ### 1. Prerequisites
 * Python 3.10+ (tested on Python 3.12)
+* Node.js v18+ (tested on Node v22)
 * Git
 
 ### 2. Clone Repository & Setup Virtual Environment
@@ -104,31 +62,38 @@ cd agricredit-resilience
 python3 -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
-# Install dependencies
+# Install Python dependencies
 pip install -r requirements.txt
 ```
 
-### 3. Launch the Streamlit Dashboard
+### 3. Launch the FastAPI Backend
 ```bash
-streamlit run app/Home.py
+# Start backend server with hot-reload
+uvicorn src.api.main:app --reload --port 8000
 ```
-Open your browser at `http://localhost:8501`.
+* **Interactive Swagger UI:** [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+* **ReDoc Documentation:** [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 
-### 4. Running the Pipelines
-To regenerate raw data, rebuild the Analytical Base Table (ABT), retrain models, or produce evaluations:
+### 4. Launch the Modern Frontend UI
+Open a second terminal window:
 ```bash
-# Step 1: Generate raw tables
-python src/generate_raw_data.py
-
-# Step 2: Build the Analytical Base Table (ABT)
-python src/prepare_abt.py
-
-# Step 3: Train and export models
-python src/train_models.py
-
-# Step 4: Evaluate and update benchmark report
-python src/evaluate_models.py
+cd frontend
+npm install
+npm run dev
 ```
+Open your browser at [**http://localhost:3000**](http://localhost:3000).
+
+---
+
+## 🌟 Key Application Features
+
+* **One-Click Farmer Case Studies (Personas):**
+  * 🔴 **Flood-Displaced Smallholder (Ayeyarwady Delta):** Climate flood inundation $\rightarrow$ *Evaluates to High Risk (100%), recommends humanitarian cash assistance referral rather than debt.*
+  * 🟢 **Resilient Commercial Producer (Shan South):** Stable highland producer $\rightarrow$ *Evaluates to Low Risk (0%), recommends standard microfinance expansion.*
+  * 🟡 **Input-Stressed Borderline Farmer (Sagaing Dry Zone):** Input inflation shock $\rightarrow$ *Evaluates to Medium Risk, recommends flexible grace periods.*
+* **Visual Decision-Support Radial Gauge:** Animated dial showing calibrated vulnerability percentage and ethical lending recommendations.
+* **Explainability Drivers:** Breaks down shock drivers (`+ Risk`) versus liquidity/yield buffers (`- Mitigation`).
+* **"What-If" Counterfactual Policy Simulator:** Sliders to model emergency cash grants (MPCA), fertilizer subsidies, debt relief, and flood rehabilitation in real time.
 
 ---
 

@@ -9,3 +9,5 @@ openpyxl
 jupyter
 ipykernel
 python-dotenv
+fastapi
+uvicorn
