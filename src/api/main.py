@@ -314,7 +314,7 @@ def extract_key_drivers(profile: FarmerProfile, computed: ComputedIndicators) ->
     return factors
 
 
-@app.get("/health", response_model=HealthResponse, tags=["Monitoring"])
+@app.api_route("/health", methods=["GET", "HEAD"], response_model=HealthResponse, tags=["Monitoring"])
 def health_check():
     """Verify API service health, loaded models, and timestamp."""
     return HealthResponse(

@@ -78,9 +78,9 @@ export const Navbar: React.FC<NavbarProps> = ({
                 FastAPI v{health.api_version}
               </span>
             ) : (
-              <span className="flex items-center gap-1.5 text-rose-400 font-medium">
-                <span className="w-2 h-2 rounded-full bg-rose-500" />
-                Backend Offline
+              <span className="flex items-center gap-1.5 text-amber-400 font-medium" title="Render free tier takes ~30s to wake up on first visit">
+                <Activity className="w-3.5 h-3.5 animate-spin text-amber-500" />
+                Waking up API...
               </span>
             )}
           </div>

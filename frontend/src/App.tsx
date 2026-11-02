@@ -49,37 +49,51 @@ export function App() {
   const [isPredicting, setIsPredicting] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
 
-  // Initialize data on component mount
+  // Initialize data on component mount with auto-retry for cloud cold-starts
   useEffect(() => {
-    async function init() {
-      setIsHealthLoading(true);
+    let timer: any;
+    let isMounted = true;
+
+    async function attemptConnection() {
       try {
-        const [healthData, metaData, personasData] = await Promise.all([
-          fetchHealth().catch(() => null),
+        const healthData = await fetchHealth();
+        if (!isMounted) return;
+        setHealth(healthData);
+        setIsHealthLoading(false);
+
+        // Once healthy, fetch metadata and personas
+        const [metaData, personasData] = await Promise.all([
           fetchMetadata().catch(() => null),
           fetchPersonas().catch(() => []),
         ]);
 
-        setHealth(healthData);
-        setMetadata(metaData);
-        setPersonas(personasData);
-
-        // Pre-select Persona 1 as initial showcase if available
+        if (!isMounted) return;
+        if (metaData) setMetadata(metaData);
         if (personasData && personasData.length > 0) {
-          const firstPersona = personasData[0];
-          setSelectedPersonaId(firstPersona.id);
-          setCurrentProfile(firstPersona.profile);
-          triggerPrediction(firstPersona.profile, 'logistic_regression');
+          setPersonas(personasData);
+          if (!selectedPersonaId) {
+            const first = personasData[0];
+            setSelectedPersonaId(first.id);
+            setCurrentProfile(first.profile);
+            triggerPrediction(first.profile, modelType);
+          }
         }
-      } catch (err: any) {
-        console.error('Initialization error:', err);
-      } finally {
+      } catch {
+        if (!isMounted) return;
+        setHealth(null);
         setIsHealthLoading(false);
+        // Retry every 4 seconds until cloud server is awake
+        timer = setTimeout(attemptConnection, 4000);
       }
     }
 
-    init();
-  }, []);
+    attemptConnection();
+
+    return () => {
+      isMounted = false;
+      if (timer) clearTimeout(timer);
+    };
+  }, [modelType, selectedPersonaId]);
 
   const triggerPrediction = async (
     profile: FarmerProfile,
