@@ -1,6 +1,7 @@
 import React from 'react';
 import { Activity, BookOpen, ExternalLink, Cpu } from 'lucide-react';
 import { HealthResponse } from '../types';
+import { DOCS_URL } from '../api';
 
 interface NavbarProps {
   health: HealthResponse | null;
@@ -86,7 +87,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
           {/* Swagger Link */}
           <a
-            href="http://127.0.0.1:8000/docs"
+            href={DOCS_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="hidden md:flex items-center gap-1.5 text-xs text-slate-300 hover:text-white bg-slate-800 hover:bg-slate-700 px-3 py-1.5 rounded-lg border border-slate-700 transition"

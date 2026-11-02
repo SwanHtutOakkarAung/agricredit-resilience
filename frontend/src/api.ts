@@ -8,7 +8,9 @@ import {
   SimulationResponse,
 } from './types';
 
-const API_BASE = ''; // Uses Vite proxy in development, or relative path in production
+// Uses environment variable in production (e.g. Vercel), or falls back to Vite proxy for local dev
+export const API_BASE = import.meta.env.VITE_API_URL || '';
+export const DOCS_URL = API_BASE ? `${API_BASE}/docs` : 'http://127.0.0.1:8000/docs';
 
 export async function fetchHealth(): Promise<HealthResponse> {
   const res = await fetch(`${API_BASE}/health`);

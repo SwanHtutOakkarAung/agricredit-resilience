@@ -6,7 +6,7 @@ import {
   Persona,
   PredictionResponse,
 } from './types';
-import { fetchHealth, fetchMetadata, fetchPersonas, predictVulnerability } from './api';
+import { fetchHealth, fetchMetadata, fetchPersonas, predictVulnerability, DOCS_URL } from './api';
 import { Navbar } from './components/Navbar';
 import { PersonaSelector } from './components/PersonaSelector';
 import { FarmerForm } from './components/FarmerForm';
@@ -220,7 +220,7 @@ export function App() {
               GitHub Repository
             </a>
             <a
-              href="http://127.0.0.1:8000/docs"
+              href={DOCS_URL}
               target="_blank"
               rel="noopener noreferrer"
               className="text-emerald-400 hover:text-emerald-300 transition"
