@@ -51,7 +51,7 @@ export function App() {
 
   // Initialize data on component mount with auto-retry for cloud cold-starts
   useEffect(() => {
-    let timer: any;
+    let timer: ReturnType<typeof setTimeout>;
     let isMounted = true;
 
     async function attemptConnection() {
@@ -71,12 +71,11 @@ export function App() {
         if (metaData) setMetadata(metaData);
         if (personasData && personasData.length > 0) {
           setPersonas(personasData);
-          if (!selectedPersonaId) {
-            const first = personasData[0];
-            setSelectedPersonaId(first.id);
-            setCurrentProfile(first.profile);
-            triggerPrediction(first.profile, modelType);
-          }
+          // Auto-select first persona on initial load
+          const first = personasData[0];
+          setSelectedPersonaId(first.id);
+          setCurrentProfile(first.profile);
+          triggerPrediction(first.profile, 'logistic_regression');
         }
       } catch {
         if (!isMounted) return;
@@ -91,9 +90,10 @@ export function App() {
 
     return () => {
       isMounted = false;
-      if (timer) clearTimeout(timer);
+      clearTimeout(timer);
     };
-  }, [modelType, selectedPersonaId]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const triggerPrediction = async (
     profile: FarmerProfile,

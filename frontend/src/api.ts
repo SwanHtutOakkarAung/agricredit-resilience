@@ -13,9 +13,15 @@ export const API_BASE = import.meta.env.VITE_API_URL || '';
 export const DOCS_URL = API_BASE ? `${API_BASE}/docs` : 'http://127.0.0.1:8000/docs';
 
 export async function fetchHealth(): Promise<HealthResponse> {
-  const res = await fetch(`${API_BASE}/health`);
-  if (!res.ok) throw new Error('API server unreachable');
-  return res.json();
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 8000);
+  try {
+    const res = await fetch(`${API_BASE}/health`, { signal: controller.signal });
+    if (!res.ok) throw new Error('API server unreachable');
+    return res.json();
+  } finally {
+    clearTimeout(timeoutId);
+  }
 }
 
 export async function fetchMetadata(): Promise<MetadataResponse> {
